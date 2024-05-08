@@ -1,8 +1,6 @@
 # Hello, I'm a trainee/intern Full-stack developer!
 
-***
-
-## Hello! My name is Vasyl, and I'm a trainee/intern Full-stack developer with the following stack: **
+### Hello! My name is Vasyl, and I'm a trainee/intern Full-stack developer with the following stack:
 
 * HTML
 * CSS/SCSS
@@ -13,10 +11,10 @@
 * Git
 * GitHub
 
-## My Skills
+### My Skills
 
 I have experience developing both client-side and server-side parts of web applications using modern tools and
-technologies. My skills and experience include:
+technologies.<br/> My skills and experience include:
 
 * Developing interactive interfaces using HTML, CSS, and JavaScript.
 * Using React to build fast and efficient client-side applications.
@@ -24,11 +22,9 @@ technologies. My skills and experience include:
 * Using TypeScript to create secure and reliable programs.
 * Version control with Git and collaborating on projects using GitHub.
 
-***
+### Seeking Job Opportunities
 
-## Seeking Job Opportunities
-
-I'm looking for an opportunity to utilize my skills and learn new things in a friendly and innovative environment. I'm
-ready to join a team that is looking for a talented and motivated developer.
+I'm looking for an opportunity to utilize my skills and learn new things in a friendly and innovative environment. <br/>
+I'm ready to join a team that is looking for a talented and motivated developer.
 
 If you're interested in working together, please contact me via email at [vsanotskyi@gmail.com]()
