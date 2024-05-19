@@ -27,4 +27,4 @@ technologies.<br/> My skills and experience include:
 I'm looking for an opportunity to utilize my skills and learn new things in a friendly and innovative environment. <br/>
 I'm ready to join a team that is looking for a talented and motivated developer.
 
-If you're interested in working together, please contact me via email at [vsanotskyi@gmail.com]()
+If you're interested in working together, please contact me via email at <a href="mailto:vsanotskyi@gmail.com">vsanotskyi@gmail.com</a>.
