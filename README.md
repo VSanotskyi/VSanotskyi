@@ -58,9 +58,3 @@ Passionate and detail-oriented Junior Full-Stack Developer with a strong foundat
 ### 💡 Motto  
 
 > "Continuous learning and improvement are the keys to success in the ever-evolving world of technology."  
-
----  
-
-#### 👀 Visitors Count  
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vsanotskyi.vsanotskyi)
