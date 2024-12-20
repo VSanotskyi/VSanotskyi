@@ -1,6 +1,6 @@
 # Hello, I'm a trainee/intern Full-stack developer!
 
-### Hello! My name is Vasyl, and I'm a trainee/intern Full-stack developer with the following stack:
+### Hello! My name is Vasyl, and I'm a trainee Full-stack developer with the following stack:
 
 * HTML
 * CSS/SCSS
