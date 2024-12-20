@@ -1,6 +1,6 @@
-# Hello, I'm a trainee/intern Full-stack developer!
+# Hello, I'm a Junior Full-stack Developer!
 
-### Hello! My name is Vasyl, and I'm a trainee Full-stack developer with the following stack:
+### Hello! My name is Vasyl, and I'm a Junior Full-stack Developer skilled in the following technologies:
 
 * HTML
 * CSS/SCSS
@@ -13,18 +13,18 @@
 
 ### My Skills
 
-I have experience developing both client-side and server-side parts of web applications using modern tools and
-technologies.<br/> My skills and experience include:
+I specialize in building modern web applications, focusing on front-end and back-end development. My experience includes:
 
-* Developing interactive interfaces using HTML, CSS, and JavaScript.
-* Using React to build fast and efficient client-side applications.
-* Creating APIs and server logic using Node.js.
-* Using TypeScript to create secure and reliable programs.
-* Version control with Git and collaborating on projects using GitHub.
+* Crafting responsive and interactive user interfaces with HTML, CSS, and JavaScript.
+* Developing efficient and scalable front-end applications using React.
+* Building RESTful APIs and back-end services with Node.js.
+* Leveraging TypeScript to create reliable and maintainable code.
+* Collaborating on projects and managing version control using Git and GitHub.
 
-### Seeking Job Opportunities
+### Open to New Opportunities
 
-I'm looking for an opportunity to utilize my skills and learn new things in a friendly and innovative environment. <br/>
-I'm ready to join a team that is looking for a talented and motivated developer.
+I am eager to apply my skills and grow further in a dynamic and collaborative environment. 
+I'm ready to join a forward-thinking team that values innovation and teamwork.
 
-If you're interested in working together, please contact me via email at <a href="mailto:vsanotskyi@gmail.com">vsanotskyi@gmail.com</a>.
+📧 Let’s connect! Feel free to email me at <a href="mailto:vsanotskyi@gmail.com">vsanotskyi@gmail.com</a>.
+Let’s build something amazing together! 🚀
