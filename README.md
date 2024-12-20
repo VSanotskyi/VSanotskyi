@@ -23,8 +23,15 @@ I specialize in building modern web applications, focusing on front-end and back
 
 ### Open to New Opportunities
 
-I am eager to apply my skills and grow further in a dynamic and collaborative environment. 
-I'm ready to join a forward-thinking team that values innovation and teamwork.
-
-📧 Let’s connect! Feel free to email me at <a href="mailto:vsanotskyi@gmail.com">vsanotskyi@gmail.com</a>.
-Let’s build something amazing together! 🚀
+<p>
+  I am eager to apply my skills and grow further in a dynamic and collaborative environment. 
+</p>
+<p>
+  I'm ready to join a forward-thinking team that values innovation and teamwork.
+</p>
+<p>
+  📧 Let’s connect! Feel free to email me at <a href="mailto:vsanotskyi@gmail.com">vsanotskyi@gmail.com</a>.
+</p>
+<p>
+  Let’s build something amazing together! 🚀
+</p>
