@@ -1,12 +1,12 @@
 # Vasyl Sanotskyi  
 
-## 👨‍💻 Middle Full-Stack Web Developer  
+## 👨‍💻 Junior Full-Stack Web Developer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vsanotskyi&color=blue)  
 
 ### 🚀 Professional Profile  
 
-A passionate and innovative Middle Full-Stack Developer with a robust foundation in modern web technologies. Committed to designing efficient, scalable, and user-centric web applications using cutting-edge development practices and clean, maintainable code.  
+A passionate and innovative Junior Full-Stack Developer with a robust foundation in modern web technologies. Committed to designing efficient, scalable, and user-centric web applications using cutting-edge development practices and clean, maintainable code.  
 
 ### 🛠️ Technical Expertise  
 
