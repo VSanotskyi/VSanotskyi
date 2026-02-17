@@ -57,14 +57,6 @@ Focused on performance, maintainability, and delivering real business value.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Vasyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=radical)
-
----
-
 ## 🎯 Engineering Focus  
 
 - Clean Architecture & Scalable Codebases  
@@ -79,8 +71,6 @@ Focused on performance, maintainability, and delivering real business value.
 ## 📫 Contact  
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanotskyi@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanotskyi)
 
 ---
 
