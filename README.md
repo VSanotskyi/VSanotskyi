@@ -1,73 +1,89 @@
 # Vasyl Sanotskyi  
 
-## 👨‍💻 Junior Full-Stack Web Developer  
+## 👨‍💻 Full-Stack JavaScript Developer  
 
-![Profile Views](https://komarev.com/ghpvc/?username=vsanotskyi&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=vsanotskyi&color=blue)
 
-### 🚀 Professional Profile  
+---
 
-A passionate and innovative Junior Full-Stack Developer with a robust foundation in modern web technologies. Committed to designing efficient, scalable, and user-centric web applications using cutting-edge development practices and clean, maintainable code.  
+## 🚀 Professional Profile  
 
-### 🛠️ Technical Expertise  
+Full-Stack JavaScript Developer with commercial experience building scalable web applications and B2B platforms.
 
-#### Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+Specialized in React / Next.js ecosystems on the frontend and Node.js / NestJS on the backend. Experienced in designing clean architectures, integrating third-party APIs, and working with AWS infrastructure.
 
-#### Frameworks & Libraries  
+Focused on performance, maintainability, and delivering real business value.
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🖥 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-#### Development Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+### 🗄 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Professional Performance  
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-![Vasyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=radical)  
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=radical)  
+## 🏗️ What I Build  
 
-### 🌟 Core Competencies  
+- Scalable B2B platforms  
+- Booking & scheduling systems  
+- SaaS dashboards  
+- REST API & Webhook integrations  
+- Role-based access systems  
+- Subscription & membership logic  
+- Mobile applications (React Native)
 
-- Full-Stack Web Development  
-- Single Page Application (SPA) Architecture  
-- RESTful API Design and Implementation  
-- Cross-Platform Mobile Development  
+---
+
+## 📊 GitHub Stats  
+
+![Vasyl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=radical)
+
+---
+
+## 🎯 Engineering Focus  
+
+- Clean Architecture & Scalable Codebases  
+- Advanced TypeScript Patterns  
 - Performance Optimization  
-- Responsive Web Design  
-- Agile & Scrum Methodologies  
-- Containerization with Docker  
+- System Design Fundamentals  
+- CI/CD & Infrastructure Automation  
+- Secure API Design  
 
-### 🚀 Professional Development Focus  
+---
 
-- Advanced TypeScript Techniques  
-- React Native Cross-Platform Development  
-- Microservices Architecture  
-- Advanced State Management Patterns  
-- Continuous Integration/Continuous Deployment (CI/CD)  
-- Enhanced Backend Performance Optimization  
-
-### 🔧 Additional Technical Skills  
-
-- WebStorm, Xcode, Android Studio  
-- Basic Twilio Integration  
-- Docker Containerization  
-- Minimal React Native Experience  
-
-### 📫 Professional Networking  
+## 📫 Contact  
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanotskyi@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanotskyi)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanotskyi)
 
-### 💡 Professional Philosophy  
+---
 
-> "In the dynamic world of technology, continuous learning, adaptability, and passion are the cornerstones of innovation and professional growth."
+## 💡 Philosophy  
+
+> Build systems that scale. Write code that lasts. Keep learning.
