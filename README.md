@@ -41,19 +41,27 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117" width="49%" />
-  </div>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" />
-</div>
+<p align="center">
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117&layout=compact" width="49%" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" alt="Streak Stats"/>
+  </a>
+</p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="98%" alt="Contribution Graph"/>
+  </a>
 </p>
 
 ### 📬 Contact
@@ -98,19 +106,27 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 
 ### 📊 GitHub Аналітика
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117" width="49%" />
-  </div>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" />
-</div>
+<p align="center">
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117&layout=compact" width="49%" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" alt="Streak Stats"/>
+  </a>
+</p>
 
 ### 📈 Графік внесків
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
+  <a href="https://github.com/VSanotskyi?tab=repositories">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="98%" alt="Contribution Graph"/>
+  </a>
 </p>
 
 ### 📬 Контакти
