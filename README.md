@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full-Stack Software Engineer | System Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Architecting+Scalable+Systems;Senior+Full-Stack+Engineer;Node.js+%2F+React+%2F+Next.js;Cloud+Native+%26+DevOps;Always+Learning+New+Things&center=true&width=600&height=50&color=36BCF7&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=25&lines=Building+scalable+systems;Senior+Full-Stack+Software+Engineer;React+%2F+Next.js+%2F+Node.js;Architecture+Design+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,29 +15,11 @@
 
 ### 🚀 Professional Summary
 
-Dedicated **Senior Software Engineer** and **Architect** with extensive experience in building distributed systems, high-traffic web applications, and robust cloud infrastructures. Expert in **Clean Architecture**, performance optimization, and scalable backend design.
+Dedicated **Senior Software Engineer** and **Architect** with extensive experience in building distributed systems, high-traffic applications, and robust cloud infrastructures. Expert in **Clean Architecture**, performance optimization, and scalable backend design.
 
-- 🔭 **Focus**: Microservices, Serverless, and Event-Driven Architectures.
+- 🔭 **Current Focus**: Microservices, Serverless orchestration, and High-availability systems.
 - ⚙️ **Strategy**: "Build systems that scale, write code that survives."
 - 👯 **Collaboration**: Open for high-impact projects in AI, Web3, and Enterprise SaaS.
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=36BCF7&icon_color=36BCF7" height="195" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&title_color=36BCF7" height="195" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="100%" />
-</div>
 
 ---
 
@@ -45,19 +27,38 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 
 <div align="center">
 
-| **Core & Languages** | **Frontend Mastery** | **Backend & API** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=ts,js,nodejs" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" /> | <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,workers" /> |
-
-| **Databases & Storage** | **Cloud & DevOps** | **Architecture & Tools** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,githubactions" /> | <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,notion" /> |
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs" /></a> |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" /></a> |
+| **Backend & API** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,express,graphql,workers" /></a> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" /></a> |
+| **Cloud & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,githubactions" /></a> |
 
 </div>
 
 ---
 
-### 📈 Global Contribution Activity
+### 📊 Engineering Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" height="195" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&title_color=36BCF7&text_color=ffffff" height="195" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="100%" />
+</div>
+
+---
+
+### 📈 Global Contribution Insights
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&custom_title=Overall+Contribution+Stats" width="100%" />
@@ -72,13 +73,13 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🏆 Architected high-concurrency event processing system
-2. 🚀 Refactored core infrastructure for AWS Lambda migration
+2. 🚀 Refactored core infrastructure for AWS migration
 3. 🛠 Improved CI/CD delivery speed by 35%
 <!--END_SECTION:activity-->
 
 ---
 
-### 📬 Let's Connect
+### 📬 Connect with me
 
 <div align="center">
   <a href="mailto:v.sanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -93,5 +94,5 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 </p>
 
 <p align="center">
-  <i>"Software architecture is the art of making the important decisions correctly early on."</i>
+  <i>"Great architecture is the result of thousands of small decisions made correctly."</i>
 </p>
