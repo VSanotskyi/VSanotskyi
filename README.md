@@ -18,6 +18,12 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 
 # 💻 My favorite tools and technologies
 
+<p align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,aws,docker,postgres,mongodb,redis,graphql,tailwind,linux,githubactions&theme=dark" />
+  </marquee>
+</p>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -50,36 +56,6 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
       <br>Docker
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>Actions
-    </td>
-  </tr>
 </table>
 </div>
 
@@ -96,6 +72,10 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
   <a href="https://github.com/VSanotskyi">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="96%" alt="Contribution Graph"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <br/>
