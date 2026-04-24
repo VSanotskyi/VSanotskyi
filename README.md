@@ -18,10 +18,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=Building+scalable+systems;React+%2F+Next.js+%2F+Node.js;Clean+Architecture+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VSanotskyi&theme=tokyonight&no-border=true&column=7&margin-w=15" alt="trophy" />
-</p>
-
 ### 🚀 Professional Summary
 
 Dedicated **Senior Software Engineer** and **Architect** with extensive experience in building distributed systems, high-traffic applications, and robust cloud infrastructures. Expert in **Clean Architecture**, performance optimization, and scalable backend design.
@@ -47,9 +43,19 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="48%" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="98%" />
 </div>
 
@@ -78,10 +84,6 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=Будую+масштабовані+системи;React+%2F+Next.js+%2F+Node.js;Чиста+архітектура+%26+Cloud;Постійно+навчаюсь+новому" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VSanotskyi&theme=tokyonight&no-border=true&column=7&margin-w=15" alt="trophy" />
-</p>
-
 ### 🚀 Професійне резюме
 
 Досвідчений **Senior Software Engineer** та **Архітектор** з великим досвідом побудови розподілених систем, високонавантажених додатків та надійної хмарної інфраструктури. Експерт у **Clean Architecture**, оптимізації продуктивності та масштабованому бекенді.
@@ -107,9 +109,19 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 ### 📊 GitHub Аналітика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="48%" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="98%" />
 </div>
 
