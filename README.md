@@ -1,46 +1,22 @@
-### Hi there 👋
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasyl-sanotskyi)
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsanotskyi)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.sanotskyi@gmail.com)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&size=28&lines=Vasyl+Sanotskyi" alt="Typing SVG" />
+</h1>
 
- <h3 align="center">Senior Full-Stack Software Engineer | System Architect</h3>
- <h4 align="center"> "Build systems that scale, write code that survives" </h4>
- <h4 align="center"> Expert in Clean Architecture, High-Availability Systems & Cloud Native Design </h4>
+<h3 align="center">Senior Full-Stack Software Engineer | System Architect</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VSanotskyi&theme=tokyonight&column=7" alt="trophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=Building+scalable+systems;React+%2F+Next.js+%2F+Node.js;Clean+Architecture+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/VSanotskyi"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="VSanotskyi stats" /></picture></a>
-  <a href="https://github.com/VSanotskyi"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&hide_title=false&layout=compact&theme=tokyonight&count_private=true&hide=html,css" /></picture></a>
-</p>
+### 🚀 Professional Summary
 
-<br>
+Dedicated **Senior Software Engineer** and **Architect** with extensive experience in building distributed systems, high-traffic applications, and robust cloud infrastructures. Expert in **Clean Architecture**, performance optimization, and scalable backend design.
 
-- 😄 **Interests**: High-traffic systems / Microservices / AI & LLM Integrations / Web3
-- 🔭 **Current Focus**: Serverless orchestration and distributed system reliability
-- 🌱 **Learning**: Advanced AI Agents, Rust, and Deep Cloud Security
-- 👯 **Collaboration**: Open for impactful projects in Enterprise SaaS and AI
+- 🔭 **Current Focus**: Microservices, Serverless orchestration, High-availability systems
+- ⚙️ **Strategy**: "Build systems that scale, write code that survives"
+- 👯 **Collaboration**: Open for impactful projects in AI, Web3, and Enterprise SaaS
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Vasyl+Sanotskyi" alt="Name" /></a>
-  <a href="https://github.com/VSanotskyi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22&lines=Senior+Full-Stack+Engineer;System+Architect;Clean+Architecture+Expert" /></a>
-</p>
-
-<br/>
-
-<!-- Stats badges -->
-<p align="center">
-  <a href="https://github.com/VSanotskyi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VSanotskyi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=for-the-badge&label=Profile+Views">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=for-the-badge&label=Profile+Views"/></a>
-</p>
-
-<br/>
-
-# 💻 Favorite Tools & Technologies
+# 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -50,12 +26,12 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
@@ -73,16 +49,12 @@
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -100,24 +72,12 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GH Actions" />
-      <br>CI/CD
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>Actions
     </td>
   </tr>
 </table>
@@ -125,41 +85,33 @@
 
 <br/>
 
-## 📊 Detailed Analytics
+# 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/VSanotskyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/></a>
-<a href="https://github.com/VSanotskyi"><img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Github Stats"/></a>
+<a href="https://github.com/VSanotskyi"><img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats"/></a>
+<a href="https://github.com/VSanotskyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true" width="48%" alt="Streak Stats"/></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/VSanotskyi">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="96%" alt="activity graph">
-    </a>
+  <a href="https://github.com/VSanotskyi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="96%" alt="Contribution Graph"/>
+  </a>
 </p>
 
 <br/>
 
-## 🛠️ Skills & Ecosystem
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="35" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="35" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="35" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
+### 📬 Contact Me
+
+<div align="center">
+  <a href="mailto:v.sanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vasyl-sanotskyi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/vsanotskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
-<br/>
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
