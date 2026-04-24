@@ -2,19 +2,19 @@
 <h3 align="center">Full-Stack JavaScript Engineer | Architect | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Building+scalable+systems;React+%2F+Next+%2F+Node;Clean+Architecture;AWS+%2B+DevOps;Always+learning&center=true&width=500&height=50&color=36BCF7">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Building+scalable+systems;React+%2F+Next+%2F+Node;Clean+Architecture;AWS+%2B+DevOps;Always+learning&center=true&width=600&height=50&color=36BCF7&size=25">
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vsanotskyi&theme=tokyonight&no-border=false&column=7" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VSanotskyi&theme=tokyonight&no-border=false&column=7&margin-w=15" alt="trophy" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vsanotskyi&color=blue&style=flat-square&label=PROFILE+VIEWS" />
-  <a href="https://github.com/vsanotskyi">
-    <img src="https://img.shields.io/github/followers/vsanotskyi?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="https://github.com/VSanotskyi">
+    <img src="https://img.shields.io/github/followers/VSanotskyi?label=Follow&style=social" />
   </a>
 </div>
 
