@@ -29,40 +29,31 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 ### 🛠 Tech Stack & Expertise
 
 <div align="center">
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,workers" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,githubactions" /> |
+  
+| **Category** | **Technologies** |
+|:---|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 </div>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117" width="49%" />
+  </div>
   
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" />
 </div>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
 </p>
 
 ### 📬 Contact
@@ -97,38 +88,29 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 <div align="center">
 
 | **Категорія** | **Технології** |
-| :--- | :--- |
-| **Мови** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs" /> |
-| **Фронтенд** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" /> |
-| **Бекенд** | <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,workers" /> |
-| **Бази даних** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,githubactions" /> |
+|:---|:---|
+| **Фронтенд** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Бекенд** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
+| **Бази даних** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 </div>
 
 ### 📊 GitHub Аналітика
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&bg_color=0D1117" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=36BCF7&bg_color=0D1117" width="49%" />
+  </div>
   
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&background=0D1117" width="98%" />
 </div>
 
 ### 📈 Графік внесків
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
 </p>
 
 ### 📬 Контакти
