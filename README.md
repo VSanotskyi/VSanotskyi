@@ -1,12 +1,9 @@
 <div align="center">
-  <!-- Анімоване Ім'я -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&size=28&lines=Vasyl+Sanotskyi" alt="Typing SVG" />
 
-  <!-- Статична роль (щоб була візуальна опора) -->
   <h3 align="center">Senior Full-Stack Software Engineer | System Architect</h3>
 
-  <!-- Анімовані фрази -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=React+%2F+Next.js+%2F+Node.js;Building+scalable+systems;Clean+Architecture+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=Next.js+%2F+NestJS+%2F+Node.js;Building+scalable+systems;Clean+Architecture+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
 
   <!-- Ідеально рівний блок іконок (SkillIcons - найнадійніші) -->
   <br/>
