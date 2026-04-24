@@ -102,19 +102,43 @@ I don’t just write code — I design systems.
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-<p>
-  <a href="mailto:vsanotskyi@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/yourusername">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 💡 Philosophy
 
-> Build systems that scale.
-> Write code that lasts.
-> Think in architecture.
-> Never stop learning.
+<div align="center">
+
+> **Build systems that scale.**
+> **Write code that survives.**
+> **Think in architecture, not features.**
+> **Optimize for long-term impact.**
+
+</div>
+
+---
+
+## ⚡ Engineering Principles
+
+* 🧱 **Architecture first** — no chaos-driven development
+* 🔁 **Reusability > quick hacks**
+* ⚙️ **Automation everywhere**
+* 🚀 **Performance is a feature**
+* 📦 **Ship small, iterate fast**
