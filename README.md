@@ -15,29 +15,28 @@
 
 ### 🚀 Professional Summary
 
-Dedicated **Senior Software Engineer** with a passion for designing and implementing complex, high-performance distributed systems. I specialize in **Clean Architecture**, domain-driven design, and orchestrating cloud-native infrastructures.
+Dedicated **Senior Software Engineer** and **Architect** with extensive experience in building distributed systems, high-traffic web applications, and robust cloud infrastructures. Expert in **Clean Architecture**, performance optimization, and scalable backend design.
 
-- 🔭 **Current Focus**: Microservices orchestration & High-availability Architectures.
-- 🧠 **Expertise**: Scalable Backend Design, Frontend Performance, and CI/CD Automation.
-- 👯 **Collaboration**: Interested in Open Source, AI-driven solutions, and Web3/Blockchain ecosystems.
-- ⚡ **Motto**: *"Code is for humans to read, and only incidentally for machines to execute."*
+- 🔭 **Focus**: Microservices, Serverless, and Event-Driven Architectures.
+- ⚙️ **Strategy**: "Build systems that scale, write code that survives."
+- 👯 **Collaboration**: Open for high-impact projects in AI, Web3, and Enterprise SaaS.
 
 ---
 
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github" height="195" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=36BCF7&icon_color=36BCF7" height="195" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" height="195" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&title_color=36BCF7" height="195" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="100%" />
 </div>
 
 ---
@@ -46,22 +45,22 @@ Dedicated **Senior Software Engineer** with a passion for designing and implemen
 
 <div align="center">
 
-| **Category** | **Technologies & Tools** |
-| :--- | :--- |
-| **Languages** | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF6600?style=flat-square&logo=github-actions&logoColor=white) |
+| **Core & Languages** | **Frontend Mastery** | **Backend & API** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=ts,js,nodejs" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass" /> | <img src="https://skillicons.dev/icons?i=nestjs,express,graphql,workers" /> |
+
+| **Databases & Storage** | **Cloud & DevOps** | **Architecture & Tools** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,githubactions" /> | <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,notion" /> |
 
 </div>
 
 ---
 
-### 📈 Contribution Insights
+### 📈 Global Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=tokyo-night&area=true&hide_border=true&custom_title=Overall+Contribution+Stats" width="100%" />
 </p>
 
 <p align="center">
@@ -72,9 +71,9 @@ Dedicated **Senior Software Engineer** with a passion for designing and implemen
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🏆 Optimized API response times by 40% using Redis caching
-2. 🚀 Refactored microservices architecture for higher availability
-3. 🛠 Improved CI/CD pipelines for automated testing
+1. 🏆 Architected high-concurrency event processing system
+2. 🚀 Refactored core infrastructure for AWS Lambda migration
+3. 🛠 Improved CI/CD delivery speed by 35%
 <!--END_SECTION:activity-->
 
 ---
@@ -90,9 +89,9 @@ Dedicated **Senior Software Engineer** with a passion for designing and implemen
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=flat-square&label=TOTAL+PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <i>"Great architecture is the result of thousands of small decisions made correctly."</i>
+  <i>"Software architecture is the art of making the important decisions correctly early on."</i>
 </p>
