@@ -18,45 +18,69 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
 
 # 💻 My favorite tools and technologies
 
-<p align="center">
-  <marquee behavior="alternate" scrollamount="3">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,aws,docker,postgres,mongodb,redis,graphql,tailwind,linux,githubactions&theme=dark" />
-  </marquee>
-</p>
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/react.gif" width="50" alt="React" />
+        <br><b>React</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nextjs.gif" width="50" alt="Next.js" />
+        <br><b>Next.js</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/typescript.gif" width="50" alt="TypeScript" />
+        <br><b>TypeScript</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nodejs.gif" width="50" alt="Node.js" />
+        <br><b>Node.js</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nestjs.gif" width="50" alt="NestJS" />
+        <br><b>NestJS</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/aws.gif" width="50" alt="AWS" />
+        <br><b>AWS</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/docker.gif" width="50" alt="Docker" />
+        <br><b>Docker</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/postgresql.gif" width="50" alt="PostgreSQL" />
+        <br><b>Postgres</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/mongodb.gif" width="50" alt="MongoDB" />
+        <br><b>MongoDB</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/redis.gif" width="50" alt="Redis" />
+        <br><b>Redis</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/graphql.gif" width="50" alt="GraphQL" />
+        <br><b>GraphQL</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/tailwind.gif" width="50" alt="Tailwind" />
+        <br><b>Tailwind</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/linux.gif" width="50" alt="Linux" />
+        <br><b>Linux</b>
+      </td>
+      <td align="center" width="110">
+        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/github.gif" width="50" alt="GitHub Actions" />
+        <br><b>Actions</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -72,10 +96,6 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
   <a href="https://github.com/VSanotskyi">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="96%" alt="Contribution Graph"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <br/>
