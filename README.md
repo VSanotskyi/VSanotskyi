@@ -22,61 +22,61 @@ Dedicated **Senior Software Engineer** and **Architect** with extensive experien
   <table align="center">
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/react.gif" width="50" alt="React" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/React.gif" width="50" />
         <br><b>React</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nextjs.gif" width="50" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/NextJS.gif" width="50" />
         <br><b>Next.js</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/typescript.gif" width="50" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/TypeScript.gif" width="50" />
         <br><b>TypeScript</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nodejs.gif" width="50" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/NodeJS.gif" width="50" />
         <br><b>Node.js</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/nestjs.gif" width="50" alt="NestJS" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/NestJS.gif" width="50" />
         <br><b>NestJS</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/aws.gif" width="50" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/AWS.gif" width="50" />
         <br><b>AWS</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/docker.gif" width="50" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Docker.gif" width="50" />
         <br><b>Docker</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/postgresql.gif" width="50" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/PostgreSQL.gif" width="50" />
         <br><b>Postgres</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/mongodb.gif" width="50" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/MongoDB.gif" width="50" />
         <br><b>MongoDB</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/redis.gif" width="50" alt="Redis" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Redis.gif" width="50" />
         <br><b>Redis</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/graphql.gif" width="50" alt="GraphQL" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GraphQL.gif" width="50" />
         <br><b>GraphQL</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/tailwind.gif" width="50" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/TailwindCSS.gif" width="50" />
         <br><b>Tailwind</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/linux.gif" width="50" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Linux.gif" width="50" />
         <br><b>Linux</b>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/vigneshsharma84/vigneshsharma84/master/assets/github.gif" width="50" alt="GitHub Actions" />
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Github.gif" width="50" />
         <br><b>Actions</b>
       </td>
     </tr>
