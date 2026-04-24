@@ -1,84 +1,120 @@
-# Vasyl Sanotskyi
+<h1 align="center">Vasyl Sanotskyi</h1>
+<h3 align="center">Full-Stack JavaScript Engineer</h3>
 
-## 👨‍💻 Full-Stack JavaScript Developer
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Building+scalable+systems;React+%2F+Next+%2F+Node;Clean+Architecture;AWS+%2B+DevOps;Always+learning&center=true&width=500&height=50">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vsanotskyi&color=blue)
-
----
-
-## 🚀 Professional Profile
-
-Full-Stack JavaScript Developer with commercial experience building scalable web applications and B2B platforms.
-
-Specializing in the React / Next.js ecosystem on the frontend and Node.js / NestJS on the backend. Experienced in designing maintainable architectures, integrating third-party APIs, and deploying applications on AWS infrastructure.
-
-Focused on performance, scalability, and delivering real business value through clean and reliable systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vsanotskyi&color=blue" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+Full-stack engineer focused on building scalable, production-grade applications.
 
-### 🖥 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon Route53](https://img.shields.io/badge/Amazon_Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-
-### 🚀 Deployment & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I design and deliver systems end-to-end — from UI architecture to backend services and infrastructure — with a strong emphasis on performance, maintainability, and real-world impact.
 
 ---
 
-## 🏗️ What I Build
+## ⚡ What I Actually Do
 
-• Scalable B2B platforms  
-• SaaS dashboards and internal tools  
-• Booking & scheduling systems  
-• REST APIs and webhook integrations  
-• Role-based access control systems  
-• Subscription & membership platforms  
-• Mobile applications using React Native  
+* Architect scalable web applications
+* Build robust backend systems (API-first)
+* Design clean and maintainable frontend architectures
+* Optimize performance & system reliability
+* Work with cloud infrastructure (AWS)
+* Turn business problems into working products
 
 ---
 
-## 🎯 Engineering Focus
+## 🧠 Tech Stack
 
-• Clean Architecture & scalable codebases  
-• Advanced TypeScript patterns  
-• API design and backend reliability  
-• Performance optimization  
-• System design fundamentals  
-• CI/CD and infrastructure workflows  
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel" />
+</p>
+
+---
+
+## 🏗 Architecture Mindset
+
+I don’t just write code — I design systems.
+
+* Clean Architecture
+* Scalable backend design
+* API-first approach
+* Separation of concerns
+* Performance-first thinking
+
+---
+
+## 🚀 Featured Work
+
+> Replace with real projects (важливо!)
+
+* 🔹 SaaS Platform — scalable architecture, auth, billing
+* 🔹 Booking System — real-time scheduling & API integrations
+* 🔹 B2B Dashboard — complex data + performance optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsanotskyi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ Current Focus
+
+* Advanced TypeScript patterns
+* System design & scalability
+* High-performance backend systems
+* Cloud architecture (AWS)
 
 ---
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanotskyi@gmail.com)
+<p>
+  <a href="mailto:vsanotskyi@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💡 Philosophy
 
-> Build systems that scale.  
-> Write code that lasts.  
-> Keep learning.
+> Build systems that scale.
+> Write code that lasts.
+> Think in architecture.
+> Never stop learning.
