@@ -1,52 +1,41 @@
 <h1 align="center">Vasyl Sanotskyi</h1>
-<h3 align="center">Full-Stack JavaScript Engineer</h3>
+<h3 align="center">Full-Stack Engineer • System Design • Scalable Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Clean+Architecture+mindset;React+%2F+Next+%2F+Node;AWS+%2B+DevOps;Always+learning" />
+  <img src="https://readme-typing-svg.vercel.app?lines=Building+systems+that+scale;TypeScript+%7C+Node+%7C+React;Clean+Architecture+%2B+Performance;Cloud+%2B+AWS+%2B+DevOps;Think+in+systems%2C+not+features&center=true&width=600&height=50">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vsanotskyi&style=flat-square&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-System%20Design-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=vsanotskyi&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About
 
-<p align="center" width="700">
+Full-stack engineer focused on **production-grade systems**, not demos.
 
-Full-stack engineer focused on building **scalable, production-grade systems**.
+I build applications end-to-end — from **UI to infrastructure** — with a strong emphasis on:
 
-I don’t just write code — I design, architect, and deliver **end-to-end solutions**
-from frontend interfaces to backend infrastructure.
-
-</p>
-
----
-
-## ⚡ What I Actually Do
-
-<div align="center">
-
-| Area            | Focus                         |
-| --------------- | ----------------------------- |
-| 🏗 Architecture | Scalable system design        |
-| ⚙ Backend       | API-first, high-load services |
-| 🎨 Frontend     | Clean UI architecture         |
-| 🚀 Performance  | Optimization & reliability    |
-| ☁️ Cloud        | AWS, Docker, infra            |
-
-</div>
+* scalability
+* maintainability
+* performance
+* clean architecture
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Competencies
+
+* System design & architecture
+* API-first backend development
+* Frontend architecture (React / Next)
+* Performance optimization
+* Cloud infrastructure (AWS)
+* Turning business logic into real products
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,express,postgres,mongodb,mysql,aws,docker,linux,vercel" />
@@ -54,40 +43,33 @@ from frontend interfaces to backend infrastructure.
 
 ---
 
-## 🏗 Architecture Mindset
+## 🏗 Engineering Mindset
 
-<div align="center">
+I approach development as **system design**, not feature delivery.
 
-```txt
-Design > Code
-Scalability > Simplicity
-Systems > Features
-Long-term > Short-term
-```
-
-</div>
+* **Architecture first**
+* **Separation of concerns**
+* **Scalability by design**
+* **Performance as a requirement**
+* **Long-term maintainability over shortcuts**
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Selected Work
 
-<div align="center">
+> Replace with real projects — this section matters most
 
-| Project           | Description                     |
-| ----------------- | ------------------------------- |
-| 🔹 SaaS Platform  | Auth, billing, scalable backend |
-| 🔹 Booking System | Real-time scheduling            |
-| 🔹 B2B Dashboard  | Data-heavy + optimized UI       |
-
-</div>
+* **SaaS Platform** — auth, billing, scalable backend architecture
+* **Booking System** — real-time scheduling, API integrations
+* **B2B Dashboard** — complex data flows + performance optimization
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vsanotskyi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsanotskyi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -98,59 +80,42 @@ Long-term > Short-term
 
 ## ⚙️ Current Focus
 
-<p align="center">
-
-🧠 Advanced TypeScript
-🏗 System Design
-⚡ High-performance backend
-☁️ AWS Architecture
-
-</p>
+* Advanced TypeScript patterns
+* High-load backend systems
+* Scalable architecture design
+* Cloud & infrastructure (AWS)
 
 ---
 
 ## 📬 Contact
 
 <p align="center">
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/yourusername">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+  </a>
 </p>
 
 ---
 
 ## 💡 Philosophy
 
-<p align="center">
-
-<b>Build systems that scale.</b><br/> <b>Write code that lasts.</b><br/> <b>Think in architecture.</b><br/> <b>Never stop learning.</b>
-
-</p>
-
----
-
-## ⚡ Engineering Principles
-
-<div align="center">
-
-🧱 Architecture first
-🔁 Reusability over hacks
-⚙️ Automation everywhere
-🚀 Performance matters
-📦 Ship fast, iterate faster
-
-</div>
+> Build systems that scale.
+> Write code that lasts.
+> Think in architecture.
+> Optimize for long-term impact.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=120&section=footer"/>
-</p>
+## ⚡ Principles
+
+* 🧱 Architecture > chaos
+* 🔁 Reusability > speed hacks
+* ⚙️ Automation as default
+* 🚀 Performance is a feature
+* 📦 Iterate fast, design smart
