@@ -24,18 +24,23 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,tailwind,postgres,mongodb,aws,docker,supabase,firebase,prisma,graphql,githubactions&theme=dark" />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 </div>
-
-**Frontend:** React · Next.js (App Router, Server Actions) · TypeScript · Tailwind CSS · Shadcn/UI
-
-**Backend:** Node.js · NestJS · Express · REST · GraphQL
-
-**Database & ORM:** PostgreSQL · MongoDB · DynamoDB · Prisma · Drizzle · TypeORM
-
-**BaaS & APIs:** Supabase (RLS, Auth) · Firebase · Stripe · OpenAI API · Claude API
-
-**Cloud & DevOps:** AWS (EC2, S3) · Docker · CI/CD · PWA (Offline-first)
 
 ---
 
@@ -54,21 +59,14 @@ Social book-tracking platform for the Ukrainian market (Goodreads analog). Built
 
 ### 📊 GitHub Stats
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" width="95%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" width="95%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" width="55%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" height="150" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="98%" />
