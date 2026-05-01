@@ -1,39 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&size=28&lines=Vasyl+Sanotskyi" alt="Typing SVG" />
-  <h3 align="center">Senior Full-Stack Software Engineer | System Architect</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=22&lines=Next.js+%2F+NestJS+%2F+Node.js;Building+scalable+systems;Clean+Architecture+%26+Cloud+Native;Always+learning+new+things" alt="Typing SVG" />
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,graphql,tailwind,postgres,mongodb,redis,aws,docker,linux,githubactions&theme=dark" /></td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&size=28&lines=Vasyl+Sanotskyi" alt="Vasyl Sanotskyi" />
+  <h3>Senior Full-Stack Developer · Next.js & NestJS · AI-First SaaS</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=20&lines=Building+production-ready+SaaS+platforms;Next.js+%2F+NestJS+%2F+TypeScript;AI-powered+development+workflow;Clean+architecture+%26+product+thinking" alt="Skills" />
 </div>
 
 ---
 
-### 🔥 What's Up
+### 👋 About Me
 
-- 🏗️ **Building**: Microservices platform with NestJS + Kafka + event-driven patterns
-- 📚 **Learning**: LLM integration & AI orchestration for enterprise-grade apps
-- 🌍 **Contributing**: Open-source infrastructure & developer tooling
-- 💡 **Exploring**: Edge computing & serverless at scale
-- ☕ **Mood**: Coffee-fueled architecture sessions, as always
+I'm a Senior Full-Stack Developer with 4+ years of experience building **production-ready SaaS platforms** — from database schema design to cloud deployment.
 
----
+My stack is centered around **Next.js, NestJS, and TypeScript**, and I use an **AI-first workflow** (Claude, Cursor) to ship clean, maintainable code faster without cutting corners on architecture.
 
-### 🚀 Professional Summary
+I don't just close tickets — I think about the end-user experience and the business logic behind every feature.
 
-<p align="left">
-Dedicated <b>Senior Software Engineer</b> and <b>Architect</b> with extensive experience in building distributed systems, high-traffic applications, and robust cloud infrastructures. Expert in <b>Clean Architecture</b>, performance optimization, and scalable backend design.
-</p>
-
-- 🔭 **Current Focus**: Microservices, Serverless orchestration, High-availability systems
-- ⚙️ **Strategy**: "Build systems that scale, write code that survives"
-- 👯 **Collaboration**: Open for impactful projects in AI, Web3, and Enterprise SaaS
+- 🏗️ **Currently building:** AI-integrated web apps & SaaS platforms for clients
+- 🤖 **AI workflow:** Claude + Cursor for architecture, refactoring & test generation
+- 🎯 **Focus:** Scalable architecture, SOLID principles, 100% TypeScript coverage
+- 🌍 **Based in:** Lviv, Ukraine
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,tailwind,postgres,mongodb,aws,docker,supabase,firebase,prisma,graphql,githubactions&theme=dark" />
+</div>
+
+**Frontend:** React · Next.js (App Router, Server Actions) · TypeScript · Tailwind CSS · Shadcn/UI
+
+**Backend:** Node.js · NestJS · Express · REST · GraphQL
+
+**Database & ORM:** PostgreSQL · MongoDB · DynamoDB · Prisma · Drizzle · TypeORM
+
+**BaaS & APIs:** Supabase (RLS, Auth) · Firebase · Stripe · OpenAI API · Claude API
+
+**Cloud & DevOps:** AWS (EC2, S3) · Docker · CI/CD · PWA (Offline-first)
+
+---
+
+### 💼 Work Experience
+
+**Senior Frontend Engineer — Fieldspace** *(2023 – Present)*
+B2B SaaS platform for booking & facility management. Built a complex calendar-based scheduling system, multi-tier membership logic, and mobile-responsive booking pages with Next.js + TypeScript.
+
+**Full-Stack Developer — JustFare** *(2021 – 2022)*
+B2B catering SaaS serving clients like Discord and Midjourney. Architected a serverless Firebase backend, built an automated billing engine, and integrated Slack, Mailgun, and Google Workspace APIs.
+
+**Full-Stack Developer — Storinky** *(2020 – 2021)*
+Social book-tracking platform for the Ukrainian market (Goodreads analog). Built with React + Node.js, with SEO-optimized dynamic pages and a scalable database schema.
+
+---
+
+### 📊 GitHub Stats
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -46,7 +65,7 @@ Dedicated <b>Senior Software Engineer</b> and <b>Architect</b> with extensive ex
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" width="60%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" width="55%" />
     </td>
   </tr>
 </table>
@@ -65,17 +84,13 @@ Dedicated <b>Senior Software Engineer</b> and <b>Architect</b> with extensive ex
 
 ---
 
-### 📬 Contact & Socials
+### 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:v.sanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/vasyl-sanotskyi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://wa.me/380934700087"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/vasylsanotskyi"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>&nbsp;
   <a href="https://t.me/vsanotskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
   <br/><br/>
-
   <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=flat-square&label=Profile+Views" />
-
-  <p><i>"Great architecture is the result of thousands of small decisions made correctly"</i></p>
 </div>
