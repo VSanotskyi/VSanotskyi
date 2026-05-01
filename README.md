@@ -63,8 +63,8 @@ I don't just close tickets — I think about the end-user experience and the bus
 <div align="center">
   <a href="mailto:vsanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/vasyl-sanotskyi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/vasylsanotskyi"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>&nbsp;
-  <a href="https://wa.me/380XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/vasyls36?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>&nbsp;
+  <a href="https://wa.me/380934700087"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
   <a href="https://t.me/vsanotskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=VSanotskyi&color=36BCF7&style=flat-square&label=Profile+Views" />
