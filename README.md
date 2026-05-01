@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&size=20&lines=Building+production-ready+SaaS+platforms;Next.js+%2F+NestJS+%2F+TypeScript;AI-powered+development+workflow;Clean+architecture+%26+product+thinking" alt="Skills" />
 </div>
 
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,graphql,tailwind,postgres,mongodb,redis,aws,docker,linux,githubactions&theme=dark" /></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ### 👋 About Me
@@ -18,18 +26,6 @@ I don't just close tickets — I think about the end-user experience and the bus
 - 🤖 **AI workflow:** Claude + Cursor for architecture, refactoring & test generation
 - 🎯 **Focus:** Scalable architecture, SOLID principles, 100% TypeScript coverage
 - 🌍 **Based in:** Lviv, Ukraine
-
----
-
-### 🚀 Tech Stack
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,graphql,tailwind,postgres,mongodb,redis,aws,docker,linux,githubactions&theme=dark" /></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
