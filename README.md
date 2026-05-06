@@ -32,7 +32,7 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" />
 </div>
 
