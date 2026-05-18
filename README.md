@@ -32,21 +32,16 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Основна статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=gotham&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" height="170" alt="Overall Stats" />
-  
-  <!-- Streak (працює стабільно) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" alt="Streak Stats" />
+  <!-- Загальна статистика через Metrics (інший сервіс) -->
+  <img src="https://metrics.lecoq.io/VSanotskyi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.order=title,description&config.timezone=Europe%2FKiev" width="450" alt="Stats" />
+
+  <!-- Твій Streak (він і так працює) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="195" alt="Streak" />
 </div>
 
 <div align="center">
-  <!-- Твоя активність у графіку -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="95%" />
-</div>
-
-<div align="center">
-  <!-- Твої мови (Виправлений URL без зайвих слешів) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" height="150" alt="Top Languages" />
+  <!-- Мови через інший стабільний домен -->
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" height="180" alt="Languages" />
 </div>
 
 ---
