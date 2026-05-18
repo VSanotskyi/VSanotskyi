@@ -1,26 +1,21 @@
-name: generate assets
+name: generate snake animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" # щодня о північі
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # Створюємо папку dist заздалегідь
-      - name: prepare folders
-        run: mkdir -p dist
-
-      # 1. Генерація змійки
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,24 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # 2. Генерація основної статистики (Metrics)
-      - name: generate github-metrics.svg
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: VSanotskyi
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Kyiv
-          filename: github-metrics.svg # Metrics створить його в корні за замовчуванням
-          
-      # Переміщуємо файл metrics у папку dist до змійки
-      - name: move assets
-        run: |
-          mv github-metrics.svg dist/ || true
-
-      # 3. Пуш усіх файлів у гілку output
-      - name: push assets to the output branch
+      - name: push snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
