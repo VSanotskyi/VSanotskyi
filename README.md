@@ -31,22 +31,22 @@ I don't just close tickets — I think about the end-user experience and the bus
 
 ### 📊 GitHub Stats
 
- <div align="center">
-  <!-- GitHub Readme Stats - Використовуємо стабільне дзеркало -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=VSanotskyi&show_icons=true&theme=gotham&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" height="170" alt="Overall Stats" />
+<div align="center">
+  <!-- Основна статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VSanotskyi&show_icons=true&theme=gotham&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" height="170" alt="Overall Stats" />
   
-  <!-- Твій Streak (він працює стабільно) -->
+  <!-- Streak (працює стабільно) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <!-- Top Languages - Використовуємо інший сервіс (Profile Summary Cards), він зараз стабільніший -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VSanotskyi&theme=gotham" height="170" alt="Languages" />
+  <!-- Твоя активність у графіку -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="95%" />
 </div>
 
 <div align="center">
-  <!-- Activity Graph - він зазвичай працює без збоїв -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
+  <!-- Твої мови (Виправлений URL без зайвих слешів) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" height="150" alt="Top Languages" />
 </div>
 
 ---
