@@ -16,11 +16,15 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # 1. Генерація змійки (твій існуючий код)
+      # Створюємо папку dist заздалегідь
+      - name: prepare folders
+        run: mkdir -p dist
+
+      # 1. Генерація змійки
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: VSanotskyi
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -34,20 +38,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Kyiv
-          filename: github-metrics.svg
-          output_action: none # ми самі завантажимо файл нижче
+          filename: github-metrics.svg # Metrics створить його в корні за замовчуванням
           
-          # Налаштування плагінів (Top Languages + Streak)
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          
-      # Переміщуємо згенерований файл metrics у папку dist до змійки
-      - name: move metrics to dist
+      # Переміщуємо файл metrics у папку dist до змійки
+      - name: move assets
         run: |
-          mkdir -p dist
-          mv /github/workspace/github-metrics.svg dist/
+          mv github-metrics.svg dist/ || true
 
       # 3. Пуш усіх файлів у гілку output
       - name: push assets to the output branch
