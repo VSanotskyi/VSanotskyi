@@ -32,16 +32,16 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📊 GitHub Stats
 
  <div align="center">
-  <!-- Основна статистика (використовуємо інший сервер-дзеркало) -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=VSanotskyi&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" />
-  
-  <!-- Streak (цей працює, залишаємо як є) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" />
+  <!-- Заміна першої таблиці -->
+  <img src="https://metrics.lecoq.io/VSanotskyi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.order=title,description&config.timezone=Europe%2FKiev" width="400" />
+
+  <!-- Твій Streak (він працює, залишаємо) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="185" />
 </div>
 
 <div align="center">
-  <!-- Top Languages (виправлено слеш та змінено домен) -->
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=VSanotskyi&theme=gotham&hide_border=true&title_color=36BCF7&layout=compact&langs_count=8" height="150" />
+  <!-- Мови програмування через інший стабільний сервіс -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VSanotskyi&theme=gotham" width="400" />
 </div>
 
 ---
