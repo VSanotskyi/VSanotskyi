@@ -31,9 +31,34 @@ I don't just close tickets — I think about the end-user experience and the bus
 
 ### 📊 GitHub Stats
 
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VSanotskyi&show_icons=true&theme=gotham&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&hide_border=true&count_private=true" width="100%"/>
 </div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>🔥 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&fire=36BCF7&stroke=36BCF7&ring=36BCF7&hide_border=true" width="100%"/>
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+  <h3>🔤 Top Languages</h3>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VSanotskyi&layout=compact&theme=gotham&title_color=36BCF7&hide_border=true&langs_count=8" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
