@@ -15,14 +15,17 @@ jobs:
       contents: write
     steps:
       - name: generate metrics
-        uses: lowlighter/metrics@latest
+        # Використовуємо master, там зазвичай найсвіжіші фікси
+        uses: lowlighter/metrics@master
         with:
-          # Переконайся, що назва тут збігається з назвою в Settings -> Secrets
           token: ${{ secrets.METRICS_TOKEN }}
           user: VSanotskyi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Kiev
+          config_timezone: Europe/Kyiv
+          
+          # Явно вказуємо використовувати пребілт образ, щоб не було помилок Docker build
+          use_prebuilt_image: yes
           
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
