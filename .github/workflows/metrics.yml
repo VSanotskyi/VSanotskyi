@@ -14,6 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: checkout
+        uses: actions/checkout@v3 # <--- ДОДАНО: тепер файл буде куди зберігати
+
       - name: generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -28,16 +31,17 @@ jobs:
           filename: github-metrics.svg
           output_action: none
 
-      - name: prepare for deploy
+      - name: prepare metrics for deploy
         run: |
           mkdir -p dist_metrics
-          mv github-metrics.svg dist_metrics/
+          # Якщо файл у корені, переміщуємо його
+          mv github-metrics.svg dist_metrics/ 2>/dev/null || mv /github/workspace/github-metrics.svg dist_metrics/ || true
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist_metrics # пушимо тільки папку з метриками
-          keep_history: true      # <--- ВАЖЛИВО: не видаляти змійку
+          build_dir: dist_metrics
+          keep_history: true # Не видаляє змійку
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
