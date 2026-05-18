@@ -2,7 +2,7 @@ name: generate github metrics
 
 on:
   schedule:
-    - cron: "0 1 * * *" # щодня о першій ночі (щоб не перетиналося зі змійкою)
+    - cron: "0 1 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -17,28 +17,25 @@ jobs:
       - name: generate metrics
         uses: lowlighter/metrics@latest
         with:
+          # Переконайся, що назва тут збігається з назвою в Settings -> Secrets
           token: ${{ secrets.METRICS_TOKEN }}
           user: VSanotskyi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Kyiv
+          config_timezone: Europe/Kiev
           
-          # Плагін мов
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           
-          # Налаштування виводу
           filename: github-metrics.svg
-          output_action: none # ми самі заштовхаємо файл в гілку нижче
+          output_action: none
 
       - name: push metrics to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: .
-          # Важливо вказати конкретний файл, щоб не затерти змійку
-          fqdn: ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
