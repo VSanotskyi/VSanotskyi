@@ -32,16 +32,21 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📊 GitHub Stats
 
  <div align="center">
-  <!-- Заміна першої таблиці -->
-  <img src="https://metrics.lecoq.io/VSanotskyi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.order=title,description&config.timezone=Europe%2FKiev" width="400" />
-
-  <!-- Твій Streak (він працює, залишаємо) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="185" />
+  <!-- GitHub Readme Stats - Використовуємо стабільне дзеркало -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=VSanotskyi&show_icons=true&theme=gotham&hide_border=true&title_color=36BCF7&icon_color=36BCF7&count_private=true" height="170" alt="Overall Stats" />
+  
+  <!-- Твій Streak (він працює стабільно) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" height="170" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <!-- Мови програмування через інший стабільний сервіс -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VSanotskyi&theme=gotham" width="400" />
+  <!-- Top Languages - Використовуємо інший сервіс (Profile Summary Cards), він зараз стабільніший -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VSanotskyi&theme=gotham" height="170" alt="Languages" />
+</div>
+
+<div align="center">
+  <!-- Activity Graph - він зазвичай працює без збоїв -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSanotskyi&theme=gotham&area=true&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%" />
 </div>
 
 ---
