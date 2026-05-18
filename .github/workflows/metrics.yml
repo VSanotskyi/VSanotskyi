@@ -2,8 +2,8 @@ name: generate github metrics
 
 on:
   schedule:
-    - cron: "0 1 * * *" # Щодня о 01:00
-  workflow_dispatch: # Дозволяє запускати вручну
+    - cron: "0 1 * * *" 
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,25 +22,22 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Kyiv
-          
-          # Налаштування плагіна мов
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss
-          plugin_languages_details: percentage
           plugin_languages_limit: 8
-          
-          # Використовуємо готовий образ, щоб не було помилок Docker
           use_prebuilt_image: yes
-          
           filename: github-metrics.svg
-          output_action: none # ми самі завантажимо файл нижче
+          output_action: none
 
-      - name: push metrics to the output branch
+      - name: prepare for deploy
+        run: |
+          mkdir -p dist_metrics
+          mv github-metrics.svg dist_metrics/
+
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .
-          # Це важливо, щоб не видаляти файли змійки, які вже там є
-          keep_history: true
+          build_dir: dist_metrics # пушимо тільки папку з метриками
+          keep_history: true      # <--- ВАЖЛИВО: не видаляти змійку
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
