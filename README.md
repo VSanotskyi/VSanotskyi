@@ -32,7 +32,6 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Твоя власна статистика, яка ніколи не впаде -->
   <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
