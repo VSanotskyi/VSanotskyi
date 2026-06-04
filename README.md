@@ -73,6 +73,7 @@ I don't just close tickets — I think about the end-user experience and the bus
 ### 📬 Let's Connect
 
 <div align="center">
+  <a href="https://sanotskyi.dev"><img src="https://img.shields.io/badge/Portfolio-sanotskyi.dev-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
   <a href="mailto:vsanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/vasyl-sanotskyi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/vasyls36?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>&nbsp;
