@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&size=18&lines=Production+SaaS+on+Next.js+%2F+NestJS+%2F+PostgreSQL;Schema-first+%C2%B7+billing+%C2%B7+RBAC+%C2%B7+clean+handover;Case+studies+%E2%80%94+sanotskyi.dev" alt="Focus" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,tailwind,postgres,prisma,supabase,firebase,mongodb,redis,aws,docker,vercel,githubactions&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,tailwind,postgres,prisma,supabase,firebase,redis,aws,docker,vercel,githubactions&theme=dark" alt="Tech stack" />
   </p>
 </div>
 
