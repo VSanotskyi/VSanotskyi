@@ -1,0 +1,17 @@
+<svg width="860" height="264" viewBox="0 0 860 264" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Most Used Languages (public + private)</title>
+  <rect width="860" height="264" rx="8" fill="#0d1117"/>
+  <text x="24" y="36" fill="#36BCF7" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <text x="836" y="36" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" text-anchor="end">public + private</text>
+  <rect x="24" y="70" width="812" height="10" rx="5" fill="#21262d"/>
+  <rect x="24.00" y="70" width="378.89" height="10" fill="#3178c6"/>
+<rect x="402.89" y="70" width="324.03" height="10" fill="#f1e05a"/>
+<rect x="726.92" y="70" width="68.49" height="10" fill="#e34c26"/>
+<rect x="795.41" y="70" width="31.32" height="10" fill="#563d7c"/>
+<rect x="826.73" y="70" width="9.27" height="10" fill="#c6538c"/>
+  <circle cx="30" cy="106" r="6" fill="#3178c6"/><text x="46" y="111" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">TypeScript 46.66%</text>
+<circle cx="30" cy="134" r="6" fill="#f1e05a"/><text x="46" y="139" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">JavaScript 39.91%</text>
+<circle cx="30" cy="162" r="6" fill="#e34c26"/><text x="46" y="167" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">HTML 8.43%</text>
+<circle cx="30" cy="190" r="6" fill="#563d7c"/><text x="46" y="195" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">CSS 3.86%</text>
+<circle cx="30" cy="218" r="6" fill="#c6538c"/><text x="46" y="223" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">SCSS 1.14%</text>
+</svg>
