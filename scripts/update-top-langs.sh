@@ -77,10 +77,9 @@ for i, (lang, n) in enumerate(items):
     )
 
 svg = f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Most Used Languages (public + private)</title>
+  <title id="title">Most Used Languages</title>
   <rect width="{width}" height="{height}" rx="8" fill="#0d1117"/>
   <text x="{padding}" y="36" fill="#36BCF7" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
-  <text x="{width - padding}" y="36" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" text-anchor="end">public + private</text>
   <rect x="{padding}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="5" fill="#21262d"/>
   {seg_svg}
   {chr(10).join("  " + line for line in legend)}

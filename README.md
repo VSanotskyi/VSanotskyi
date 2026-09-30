@@ -41,7 +41,7 @@ Full write-ups and screens on **[sanotskyi.dev](https://sanotskyi.dev)**
 ### GitHub stats
 
 <p align="center">
-  <img width="860" src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/main/assets/top-langs.svg" alt="Most used languages (public + private)" />
+  <img width="860" src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/main/assets/top-langs.svg" alt="Most used languages" />
 </p>
 <p align="center">
   <img width="860" src="https://github-readme-streak-stats.herokuapp.com/?user=VSanotskyi&theme=gotham&fire=36BCF7&stroke=36BCF7&ring=36BCF7&hide_border=true&card_width=860" alt="GitHub streak" />
