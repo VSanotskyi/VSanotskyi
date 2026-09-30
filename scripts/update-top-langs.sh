@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Aggregate languages from all owned repos (public + private) and write assets/top-langs.svg
+# Aggregate languages from all owned repos and write assets/languages.svg
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -25,7 +25,6 @@ with open(sys.argv[1]) as f:
         lang, n = line.split("\t")
         bytes_by_lang[lang] += int(n)
 
-# Skip tiny infra noise in the bar; keep top product languages
 skip = {"Dockerfile", "Shell", "Makefile"}
 items = sorted(
     ((k, v) for k, v in bytes_by_lang.items() if k not in skip),
@@ -85,8 +84,8 @@ svg = f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" 
   {chr(10).join("  " + line for line in legend)}
 </svg>
 '''
-Path("assets/top-langs.svg").write_text(svg)
-print("Updated assets/top-langs.svg")
+Path("assets/languages.svg").write_text(svg)
+print("Updated assets/languages.svg")
 for lang, n in items:
     print(f"  {lang}: {100.0 * n / total:.2f}%")
 PY
