@@ -13,16 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate top-langs.svg
+      - name: Generate languages.svg
         env:
-          GH_TOKEN: ${{ secrets.LANGS_PAT }}
+          GH_TOKEN: ${{ secrets.LANGS_PAT || github.token }}
+          INCLUDE_PRIVATE: ${{ secrets.LANGS_PAT != '' }}
         run: |
-          if [ -z "$GH_TOKEN" ]; then
-            echo "Add repo secret LANGS_PAT (classic PAT with repo scope) to include private repos."
-            exit 1
-          fi
-          chmod +x scripts/update-top-langs.sh
-          ./scripts/update-top-langs.sh
+          bash scripts/update-top-langs.sh
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"

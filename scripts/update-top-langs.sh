@@ -6,15 +6,29 @@ cd "$(dirname "$0")/.."
 TMP="$(mktemp)"
 trap 'rm -f "$TMP"' EXIT
 
-gh api user/repos --paginate --jq '.[] | select(.owner.login=="VSanotskyi" and .fork==false) | .name' \
-| while read -r name; do
-  gh api "repos/VSanotskyi/$name/languages" --jq 'to_entries[] | [.key, .value] | @tsv' 2>/dev/null || true
-done > "$TMP"
+# The built-in workflow token can read public repositories, but cannot enumerate
+# the owner's private repositories. An optional LANGS_PAT enables that scope.
+if [ "${INCLUDE_PRIVATE:-false}" = "true" ]; then
+  endpoint="user/repos?affiliation=owner&per_page=100"
+  chart_title="Most Used Languages (accessible owned repos)"
+else
+  endpoint="users/VSanotskyi/repos?type=owner&per_page=100"
+  chart_title="Most Used Languages (public repos)"
+fi
 
-python3 - "$TMP" <<'PY'
+repos="$(gh api "$endpoint" --paginate --jq '.[] | select(.owner.login=="VSanotskyi" and .fork==false) | .name')"
+while IFS= read -r name; do
+  [ -n "$name" ] || continue
+  gh api "repos/VSanotskyi/$name/languages" --jq 'to_entries[] | [.key, .value] | @tsv'
+done <<< "$repos" > "$TMP"
+
+python3 - "$TMP" "$chart_title" <<'PY'
 import sys
 from pathlib import Path
 from collections import defaultdict
+from html import escape
+
+chart_title = escape(sys.argv[2])
 
 bytes_by_lang = defaultdict(int)
 with open(sys.argv[1]) as f:
@@ -45,7 +59,11 @@ colors = {
     "Vue": "#41b883",
 }
 
-total = sum(v for _, v in items) or 1
+if not items:
+    print("::notice::No supported language data returned; keeping the existing SVG. Add LANGS_PAT to include accessible private repositories.")
+    raise SystemExit(0)
+
+total = sum(v for _, v in items)
 width, padding = 860, 24
 bar_y, bar_h = 70, 10
 legend_y, row_h = 100, 28
@@ -76,9 +94,9 @@ for i, (lang, n) in enumerate(items):
     )
 
 svg = f'''<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Most Used Languages</title>
+  <title id="title">{chart_title}</title>
   <rect width="{width}" height="{height}" rx="8" fill="#0d1117"/>
-  <text x="{padding}" y="36" fill="#36BCF7" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <text x="{padding}" y="36" fill="#36BCF7" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">{chart_title}</text>
   <rect x="{padding}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="5" fill="#21262d"/>
   {seg_svg}
   {chr(10).join("  " + line for line in legend)}
