@@ -32,13 +32,15 @@ Based in **Lviv, Ukraine · Europe/Kyiv**. Available for freelance work.
 
 ## Selected work
 
-Case studies and screenshots: **[sanotskyi.dev](https://sanotskyi.dev)**.
+Case studies and screenshots: **[sanotskyi.dev](https://www.sanotskyi.dev/)**.
 
-- **DecisionSignal** — privacy-first anonymous workplace signals · Next.js, NestJS, PostgreSQL
-- **Fieldspace** — sports booking & memberships, Stripe Connect · Next.js
-- **Just Fare** — US B2B catering admin: multi-client ops, analytics, weekly billing · React, Firebase
-- **Podflow** — artwork → Shopify automation, mockups, multi-store sync · Next.js, Prisma
-- **Storinky** — social book-tracking from MVP to an active user base · React, Node, MongoDB
+- **[DecisionSignal](https://www.sanotskyi.dev/work/decisionsignal)** — privacy-first anonymous workplace signals · Next.js, NestJS, PostgreSQL
+- **[Fieldspace](https://www.sanotskyi.dev/work/fieldspace)** — sports booking & memberships, Stripe Connect · Next.js
+- **[Just Fare](https://www.sanotskyi.dev/work/just-fare)** — US B2B catering admin: multi-client ops, analytics, weekly billing · React, Firebase
+- **[Podflow](https://www.sanotskyi.dev/work/podflow)** — artwork → Shopify automation, mockups, multi-store sync · Next.js, Prisma
+- **[Storinky](https://www.sanotskyi.dev/work/storinky)** — social book-tracking from MVP to an active user base · React, Node, MongoDB
+
+Engineering notes: [Next.js Booking Workflows & Stripe Connect: Fieldspace](https://www.sanotskyi.dev/articles/fieldspace-nextjs-stripe-connect).
 
 
 ---
@@ -65,10 +67,10 @@ Case studies and screenshots: **[sanotskyi.dev](https://sanotskyi.dev)**.
 ### Connect
 
 <div align="center">
-  <a href="https://sanotskyi.dev"><img src="https://img.shields.io/badge/Portfolio-sanotskyi.dev-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.sanotskyi.dev/"><img src="https://img.shields.io/badge/Portfolio-sanotskyi.dev-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01680a199ca9b713f6"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>&nbsp;
   <a href="mailto:vsanotskyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://linkedin.com/in/vasyl-sanotskyi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://wa.me/380934700087"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;
   <a href="https://t.me/vsanotskyi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
