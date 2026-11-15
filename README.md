@@ -1,49 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&size=28&lines=Vasyl+Sanotskyi" alt="Vasyl Sanotskyi" />
-  <h3 align="center">Senior Full-Stack Developer · React, Next.js & NestJS · SaaS</h3>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&size=18&lines=Production+SaaS+on+Next.js+%2F+NestJS+%2F+PostgreSQL;Schema-first+%C2%B7+billing+%C2%B7+RBAC+%C2%B7+clean+handover;Case+studies+%E2%80%94+sanotskyi.dev" alt="Focus" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,tailwind,postgres,prisma,supabase,firebase,redis,aws,docker,vercel,githubactions&theme=dark" alt="Tech stack" />
-  </p>
-</div>
+# Vasyl Sanotskyi
 
+Senior Full-Stack Engineer building and improving B2B SaaS with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL.
 
----
-
-## About
-
-I'm a full-stack developer with **5+ years** of experience taking products from MVP to production for US teams. I develop SaaS products, extend existing applications, integrate APIs, and support ongoing development across the data model, permissions, backend, and interface.
-
-Based in **Lviv, Ukraine · Europe/Kyiv**. Available for freelance work.
-
-> Architecture is worked into the program by all the little decisions we made — little decisions that were right, and little decisions that were wrong and corrected.
->
-> — *Ward Cunningham*
-
-
-## Services
-
-- **SaaS development:** MVPs and production applications with Next.js, NestJS, and PostgreSQL.
-- **Existing product development:** new features and improvements across the frontend and backend.
-- **API integrations:** billing, Stripe Connect, Shopify automation, and multi-store sync.
-- **Ongoing development:** continued work on application interfaces, APIs, data models, and permissions.
+I have 5+ years of commercial experience. I work on existing products as well as new builds, with a focus on admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote full-stack roles and freelance contracts.
 
 ## Selected work
 
-Case studies and screenshots: **[sanotskyi.dev](https://www.sanotskyi.dev/)**.
+- [DecisionSignal](https://www.sanotskyi.dev/work/decisionsignal): Built a multi-tenant admin dashboard, participant PWA, and NestJS API with PostgreSQL and role-based access.
+- [Just Fare](https://www.sanotskyi.dev/work/just-fare): Built catering operations tools, consumption reporting, and weekly billing workflows with React and Firebase.
+- [Podflow](https://www.sanotskyi.dev/work/podflow): Helped automate catalog imports, product mockups, and publishing across Shopify stores.
+- [Fieldspace](https://www.sanotskyi.dev/work/fieldspace): Built booking, memberships, and admin calendar workflows with Next.js and Stripe Connect checkout.
+- [Storinky](https://www.sanotskyi.dev/work/storinky): Developed book catalogs, personal libraries, and discovery features with React, Node.js, and MongoDB.
 
-- **[DecisionSignal](https://www.sanotskyi.dev/work/decisionsignal)** — privacy-first anonymous workplace signals · Next.js, NestJS, PostgreSQL
-- **[Fieldspace](https://www.sanotskyi.dev/work/fieldspace)** — sports booking & memberships, Stripe Connect · Next.js
-- **[Just Fare](https://www.sanotskyi.dev/work/just-fare)** — US B2B catering admin: multi-client ops, analytics, weekly billing · React, Firebase
-- **[Podflow](https://www.sanotskyi.dev/work/podflow)** — artwork → Shopify automation, mockups, multi-store sync · Next.js, Prisma
-- **[Storinky](https://www.sanotskyi.dev/work/storinky)** — social book-tracking from MVP to an active user base · React, Node, MongoDB
-
-Engineering notes: [Next.js Booking Workflows & Stripe Connect: Fieldspace](https://www.sanotskyi.dev/articles/fieldspace-nextjs-stripe-connect).
-
-
----
+[Portfolio and case studies](https://www.sanotskyi.dev/) | [Fieldspace engineering notes](https://www.sanotskyi.dev/articles/fieldspace-nextjs-stripe-connect) | [LinkedIn](https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8/)
 
 ### GitHub stats
 
