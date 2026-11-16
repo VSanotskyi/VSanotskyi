@@ -3,19 +3,19 @@
   <rect width="860" height="264" rx="8" fill="#0d1117"/>
   <text x="24" y="36" fill="#36BCF7" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages (accessible owned repos)</text>
   <rect x="24" y="70" width="812" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.00" y="70" width="363.64" height="10" fill="#3178c6"/>
-  <rect x="387.64" y="70" width="348.82" height="10" fill="#f1e05a"/>
-  <rect x="736.46" y="70" width="61.88" height="10" fill="#e34c26"/>
-  <rect x="798.34" y="70" width="29.28" height="10" fill="#563d7c"/>
-  <rect x="827.62" y="70" width="8.38" height="10" fill="#c6538c"/>
+  <rect x="24.00" y="70" width="364.02" height="10" fill="#3178c6"/>
+  <rect x="388.02" y="70" width="348.52" height="10" fill="#f1e05a"/>
+  <rect x="736.54" y="70" width="61.83" height="10" fill="#e34c26"/>
+  <rect x="798.37" y="70" width="29.26" height="10" fill="#563d7c"/>
+  <rect x="827.63" y="70" width="8.37" height="10" fill="#c6538c"/>
     <circle cx="30" cy="106" r="6" fill="#3178c6"/>
-  <text x="46" y="111" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">TypeScript 44.78%</text>
+  <text x="46" y="111" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">TypeScript 44.83%</text>
   <circle cx="30" cy="134" r="6" fill="#f1e05a"/>
-  <text x="46" y="139" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">JavaScript 42.96%</text>
+  <text x="46" y="139" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">JavaScript 42.92%</text>
   <circle cx="30" cy="162" r="6" fill="#e34c26"/>
-  <text x="46" y="167" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">HTML 7.62%</text>
+  <text x="46" y="167" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">HTML 7.61%</text>
   <circle cx="30" cy="190" r="6" fill="#563d7c"/>
-  <text x="46" y="195" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">CSS 3.61%</text>
+  <text x="46" y="195" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">CSS 3.60%</text>
   <circle cx="30" cy="218" r="6" fill="#c6538c"/>
   <text x="46" y="223" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14">SCSS 1.03%</text>
 </svg>
