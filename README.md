@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.sanotskyi.dev/"><img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/ee6ce6cc25f3b3dfe48c7e015ce58b6da141aaab/assets/profile-signal-banner.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
+  <a href="https://www.sanotskyi.dev/"><img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/506bc723d2956d3bc6a3882d70754e50046cc4d7/assets/profile-neural-flow.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
 </p>
 
 I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, and NestJS. I work with SQL and NoSQL databases, including PostgreSQL and MongoDB. I have 5+ years of commercial experience across admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote roles and freelance contracts.
@@ -50,7 +50,7 @@ I integrate large language models (LLMs) into new and existing applications and 
 ### Contribution Drift
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/e5ca1d7cdd72718ed0c70b1b674e7c4070ea0d4c/assets/contribution-drift.svg" width="904" alt="A blue car drifts through my GitHub contribution calendar, revealing activity before it clears left to right" />
+  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/aa8da865daca5b49e8ebe27c97c89dc46ad09593/assets/contribution-drift-one-pass.svg" width="904" alt="A blue car drifts once across my GitHub contribution calendar, revealing full columns before they clear left to right" />
 </p>
 
 ---
