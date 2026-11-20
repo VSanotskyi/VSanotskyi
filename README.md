@@ -47,10 +47,10 @@ I integrate large language models (LLMs) into new and existing applications and 
 
 ---
 
-### After Hours
+### Contribution Drift
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/ee6ce6cc25f3b3dfe48c7e015ce58b6da141aaab/assets/neon-night-drive.svg" width="920" alt="A retro sports coupé seen from behind on a neon coastal road at dusk" />
+  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/e5ca1d7cdd72718ed0c70b1b674e7c4070ea0d4c/assets/contribution-drift.svg" width="904" alt="A blue car drifts through my GitHub contribution calendar, revealing activity before it clears left to right" />
 </p>
 
 ---
