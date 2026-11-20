@@ -1,12 +1,30 @@
-# Vasyl Sanotskyi
+<p align="center">
+  <a href="https://www.sanotskyi.dev/"><img src="./assets/profile-signal-banner.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
+</p>
 
-Senior Full-Stack Engineer building and improving B2B SaaS with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL.
+I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL. I have 5+ years of commercial experience across admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote roles and freelance contracts.
 
-I have 5+ years of commercial experience. I work on existing products as well as new builds, with a focus on admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote full-stack roles and freelance contracts.
+<p align="center">
+  <a href="https://www.sanotskyi.dev/">Portfolio and case studies</a> ·
+  <a href="https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8/">LinkedIn</a> ·
+  <a href="https://www.upwork.com/freelancers/~01680a199ca9b713f6">Upwork</a>
+</p>
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,postgres,prisma&amp;theme=dark&amp;perline=8" width="408" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL and Prisma" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,supabase,firebase,aws,docker,vercel,githubactions&amp;theme=dark&amp;perline=7" width="356" alt="Redis, Supabase, Firebase, AWS, Docker, Vercel and GitHub Actions" />
+</p>
 
 ## AI and LLM integrations
 
-I integrate large language models (LLMs) into new and existing web applications and have hands-on experience with multiple models. Examples include a document AI assistant in a compliance platform and DecisionSignal, where AI helps score incoming signals and surface patterns and anomalies in the analytics dashboard.
+I integrate large language models (LLMs) into new and existing applications and have worked hands-on with multiple models.
+
+- **Signal scoring and analytics:** [DecisionSignal](https://www.sanotskyi.dev/work/decisionsignal) uses AI to help score incoming reports and surface trends and anomalies in an analytics dashboard.
+- **Document workflows:** My work includes a compliance platform with an AI assistant for working with documents.
 
 ## Selected work
 
@@ -16,7 +34,7 @@ I integrate large language models (LLMs) into new and existing web applications 
 - [Fieldspace](https://www.sanotskyi.dev/work/fieldspace): Built booking, memberships, and admin calendar workflows with Next.js and Stripe Connect checkout.
 - [Storinky](https://www.sanotskyi.dev/work/storinky): Developed book catalogs, personal libraries, and discovery features with React, Node.js, and MongoDB.
 
-[Portfolio and case studies](https://www.sanotskyi.dev/) | [Fieldspace engineering notes](https://www.sanotskyi.dev/articles/fieldspace-nextjs-stripe-connect) | [LinkedIn](https://www.linkedin.com/in/vasyl-sanotskyi-5267712a8/)
+[Read the Fieldspace engineering walkthrough](https://www.sanotskyi.dev/articles/fieldspace-nextjs-stripe-connect)
 
 ### GitHub stats
 
@@ -29,11 +47,11 @@ I integrate large language models (LLMs) into new and existing web applications 
 
 ---
 
-### Contribution activity
+### Neon night drive
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-</div>
+<p align="center">
+  <img src="./assets/neon-night-drive.svg" width="920" alt="A neon sports coupe driving past a palm-lined city at dusk" />
+</p>
 
 ---
 
