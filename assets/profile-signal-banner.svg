@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="268" viewBox="0 0 920 268" role="img" aria-labelledby="name description">
+  <title id="name">Vasyl Sanotskyi | Full-stack development and LLM integrations</title>
+  <desc id="description">Midnight-blue portfolio banner with a quiet animated signal trace.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101827"/><stop offset="1" stop-color="#09111b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="575" y1="0" x2="876" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5d80e5" stop-opacity=".15"/><stop offset=".55" stop-color="#6387f5"/><stop offset="1" stop-color="#72e3c7"/>
+    </linearGradient>
+    <pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse">
+      <path d="M27 0H0V27" fill="none" stroke="#587891" stroke-opacity=".14"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop stop-color="#557de8" stop-opacity=".22"/><stop offset="1" stop-color="#557de8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="918" height="266" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .trace { stroke-dasharray: 42 550; stroke-dashoffset: 52; animation: flow 5.6s ease-in-out infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-out infinite; }
+    @keyframes flow { 0%,12% {stroke-dashoffset: 52;opacity:0} 25%,68% {opacity:1} 86%,100% {stroke-dashoffset:-355;opacity:0} }
+    @keyframes pulse { 0% {transform:scale(.8);opacity:0} 25% {opacity:.65} 75%,100% {transform:scale(2.4);opacity:0} }
+    @media (prefers-reduced-motion: reduce) { .trace,.pulse { animation:none; opacity:0 } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect x="1" y="1" width="918" height="266" fill="url(#bg)"/>
+    <ellipse cx="770" cy="131" rx="306" ry="236" fill="url(#glow)"/>
+    <path d="M550 20h366v228H550z" fill="url(#grid)"/>
+    <path d="M32 39h12M38 33v12M872 228h12M878 222v12" stroke="#92abbf" stroke-opacity=".48"/>
+    <path d="M50 215H870" stroke="#3b526d" stroke-opacity=".52"/>
+    <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+      <text x="52" y="69" fill="#83e2cc" font-size="14" font-weight="650" letter-spacing="2.8">FULL-STACK DEVELOPER</text>
+      <text x="50" y="133" fill="#f7faff" font-size="55" font-weight="730" letter-spacing="-2">Vasyl Sanotskyi</text>
+      <text x="53" y="171" fill="#bac9e5" font-size="22">B2B SaaS and LLM integrations</text>
+      <text x="52" y="244" fill="#a8bdd7" font-size="13" letter-spacing="1.5">REACT  /  NEXT.JS  /  NODE.JS  /  POSTGRESQL</text>
+    </g>
+    <path d="M563 130H615L632 109L651 150L674 120H708L736 161L762 89L788 132H859" fill="none" stroke="url(#line)" stroke-width="2" stroke-linejoin="round"/>
+    <path class="trace" d="M563 130H615L632 109L651 150L674 120H708L736 161L762 89L788 132H859" fill="none" stroke="#b5ffe9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="pulse" cx="762" cy="89" r="8" fill="none" stroke="#89f1d4" stroke-width="1"/>
+    <circle cx="762" cy="89" r="3.2" fill="#96f8df"/>
+    <circle cx="859" cy="132" r="3.2" fill="#96f8df"/>
+  </g>
+  <rect x="1" y="1" width="918" height="266" rx="24" fill="none" stroke="#354765"/>
+</svg>
