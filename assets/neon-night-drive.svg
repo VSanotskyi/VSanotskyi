@@ -1,43 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="164" viewBox="0 0 920 164" role="img" aria-labelledby="title desc">
-<title id="title">Neon night drive</title><desc id="desc">A retro sports coupe drives past a palm-lined city at dusk.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="240" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+<title id="title">After Hours</title>
+<desc id="desc">A midnight-plum retro sports coupé on a neon-lit coastal road, seen from the rear at dusk.</desc>
 <defs>
- <linearGradient id="night" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#151235"/><stop offset=".72" stop-color="#3c2153"/><stop offset="1" stop-color="#ab455f"/></linearGradient>
- <linearGradient id="sun" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#ffc175"/><stop offset="1" stop-color="#ff6ba0"/></linearGradient>
- <linearGradient id="paint"><stop stop-color="#991cb5"/><stop offset=".45" stop-color="#f36cbe"/><stop offset="1" stop-color="#fd8d9d"/></linearGradient>
- <linearGradient id="glass"><stop stop-color="#675884"/><stop offset="1" stop-color="#212438"/></linearGradient>
- <clipPath id="clip"><rect x="1" y="1" width="918" height="162" rx="18"/></clipPath>
- <path id="palm" d="M0 57Q5 28 0 0M0 1Q-13-8 -24 4M0 1Q-15 1 -18 12M0 1Q-5 -12 -15 -13M0 1Q6 -13 16 -13M0 1Q16 -8 26 2M0 1Q16 0 18 12" fill="none" stroke="#18132d" stroke-width="2.8" stroke-linecap="round"/>
- <pattern id="windows" width="12" height="8" patternUnits="userSpaceOnUse"><rect x="3" y="2" width="3" height="2" rx=".5" fill="#f7a981" opacity=".48"/></pattern>
+ <linearGradient id="sky" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#100f28"/><stop offset=".58" stop-color="#382041"/><stop offset="1" stop-color="#ab5868"/></linearGradient>
+ <radialGradient id="bloom"><stop stop-color="#fb9b84" stop-opacity=".45"/><stop offset="1" stop-color="#ff789d" stop-opacity="0"/></radialGradient>
+ <linearGradient id="road" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#252338"/><stop offset="1" stop-color="#090b17"/></linearGradient>
+ <linearGradient id="body" x1="0" y1="0" x2=".7" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#f3a1b1"/><stop offset=".24" stop-color="#9b638c"/><stop offset=".52" stop-color="#452b57"/><stop offset="1" stop-color="#171528"/></linearGradient>
+ <linearGradient id="flank" x1="0" y1="0" x2="1" y2=".8" gradientUnits="objectBoundingBox"><stop stop-color="#24203f"/><stop offset=".25" stop-color="#77416f"/><stop offset=".65" stop-color="#c979ab"/><stop offset=".84" stop-color="#534477"/><stop offset="1" stop-color="#201b42"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#635473"/><stop offset=".48" stop-color="#28243f"/><stop offset="1" stop-color="#151827"/></linearGradient>
+ <linearGradient id="tail"><stop stop-color="#fa637c"/><stop offset=".55" stop-color="#ffb18e"/><stop offset="1" stop-color="#ff617f"/></linearGradient>
+ <radialGradient id="under"><stop stop-color="#ed597c" stop-opacity=".32"/><stop offset="1" stop-color="#ed597c" stop-opacity="0"/></radialGradient>
+ <clipPath id="frame"><rect x="1" y="1" width="918" height="238" rx="18"/></clipPath>
+ <path id="palm" d="M0 65Q7 35 2 3M2 3Q-18-8-31 8M2 3Q-12 2-20 20M2 3Q-4-15-16-19M2 3Q11-14 24-14M2 3Q22-6 35 6M2 3Q20 4 25 18" fill="none" stroke="#121225" stroke-width="3" stroke-linecap="round"/>
+ <pattern id="window" width="8" height="6" patternUnits="userSpaceOnUse"><path d="M2 2h2" stroke="#ffd2ac" stroke-opacity=".42"/></pattern>
+ <path id="city" d="M510 122V109H524V101H542V108H556V88H574V99H584V84H604V76H621V97H634V89H651V106H667V93H688V104H708V95H716V69H731V58H738V69H747V103H769V88H794V104H809V81H822V72H834V93H856V107H878V98H902V107H920V122Z"/>
 </defs>
 <style>
- .car { transform:translateX(380px); animation:drive 10s linear infinite; }
- .lane { animation:lane 1.7s linear infinite; }
- @keyframes drive { 0%{transform:translateX(-184px)} 100%{transform:translateX(930px)} }
- @keyframes lane { 0%{stroke-dashoffset:0} 100%{stroke-dashoffset:64} }
- @media (prefers-reduced-motion: reduce) { .car,.lane { animation:none } }
+ .streak{stroke-dasharray:21 194;animation:travel 3.6s linear infinite;opacity:.72}
+ .glint{animation:glint 4.8s ease-in-out infinite}
+ @keyframes travel{to{stroke-dashoffset:-215}} @keyframes glint{0%,100%{opacity:.38}50%{opacity:.78}}
+ @media(prefers-reduced-motion:reduce){.streak,.glint{animation:none}}
 </style>
-<g clip-path="url(#clip)">
- <rect width="920" height="164" fill="url(#night)"/>
- <circle cx="704" cy="69" r="45" fill="url(#sun)"/>
- <path d="M660 73H748M661 82H747M665 91H743M670 100H738" stroke="#452450" stroke-width="3" opacity=".6"/>
- <path d="M0 111H920V164H0z" fill="#111326"/>
- <path id="buildings" fill="#201831" d="M12 111V94H45V77H72V99H100V82H115V71H130V90H160V74H195V106H219V93H256V63H292V48H309V72H336V98H367V75H400V84H435V94H470V70H505V99H538V69H580V55H600V87H630V110H659V93H681V102H720V88H759V77H778V99H805V72H825V56H842V85H881V93H904V79H920V111Z" />
- <path d="M12 111V94H45V77H72V99H100V82H115V71H130V90H160V74H195V106H219V93H256V63H292V48H309V72H336V98H367V75H400V84H435V94H470V70H505V99H538V69H580V55H600V87H630V110H659V93H681V102H720V88H759V77H778V99H805V72H825V56H842V85H881V93H904V79H920V111Z" fill="url(#windows)"/>
- <use href="#palm" x="96" y="49"/><use href="#palm" x="208" y="65"/><use href="#palm" x="805" y="50"/><use href="#palm" x="882" y="33"/>
- <path d="M0 112H920" stroke="#e36ea3" stroke-opacity=".72"/>
- <path d="M0 137H920" stroke="#135468" stroke-width="1.2" stroke-opacity=".7"/>
- <path class="lane" d="M-64 153H984" stroke="#be7ba1" stroke-opacity=".48" stroke-width="1.25" stroke-dasharray="34 30"/>
- <g class="car">
-  <ellipse cx="84" cy="143" rx="78" ry="5" fill="#070b19" opacity=".8"/>
-  <path d="M12 126L27 122L45 108Q51 105 62 105H100Q110 105 117 111L129 122L153 126Q161 127 162 134V138H8V133Q8 128 12 126Z" fill="url(#paint)" stroke="#ffacce" stroke-width="1.1"/>
-  <path d="M39 121L52 111Q55 109 61 109H81V121ZM86 109H100Q108 110 114 114L123 121H86Z" fill="url(#glass)" stroke="#ffd6e3" stroke-width=".8"/>
-  <path d="M9 135H162" stroke="#91117d" stroke-width="1.4"/>
-  <path d="M16 128H26M145 129H158" stroke="#fff1ad" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M18 128H13" stroke="#ff485f" stroke-width="2.5"/>
-  <circle cx="41" cy="137" r="8.5" fill="#111528" stroke="#687193"/><circle cx="41" cy="137" r="3.2" fill="#b7bfe0"/>
-  <circle cx="129" cy="137" r="8.5" fill="#111528" stroke="#687193"/><circle cx="129" cy="137" r="3.2" fill="#b7bfe0"/>
+<g clip-path="url(#frame)">
+ <rect width="920" height="240" fill="url(#sky)"/>
+ <ellipse cx="688" cy="103" rx="306" ry="135" fill="url(#bloom)"/>
+ <circle cx="686" cy="85" r="41" fill="#fa9a89" opacity=".78"/>
+ <path d="M646 86h80m-78 8h76m-72 8h68m-61 8h54" stroke="#8a4a67" stroke-width="2" opacity=".56"/>
+ <use href="#city" fill="#21182d"/><use href="#city" fill="url(#window)"/>
+ <path d="M0 114Q178 104 309 109T546 123H920V146H0Z" fill="#242035"/>
+ <path d="M0 126H920M0 129H920" stroke="#e697a5" stroke-opacity=".28"/>
+ <use href="#palm" transform="translate(120 56) scale(1.17)"/><use href="#palm" transform="translate(189 80) scale(.72)"/><use href="#palm" transform="translate(861 66) scale(.94)"/>
+ <path d="M0 240V215L585 125H772L920 169V240Z" fill="url(#road)"/>
+ <path d="M0 226l585-101M920 190l-148-65M128 240l519-115m32 0l234 115" stroke="#ef9aaa" stroke-opacity=".28" fill="none"/>
+ <path d="M39 233l576-108m64 0l200 115" class="streak" stroke="#edaeab" stroke-width="1.6" fill="none"/>
+ <path d="M0 200l532-65m282 11l106 29M85 218l211-43m332-25l218 62" stroke="#9b83bf" stroke-opacity=".18" fill="none"/>
+ <ellipse cx="470" cy="203" rx="241" ry="25" fill="url(#under)"/>
+ <ellipse cx="461" cy="196" rx="191" ry="16" fill="#050812" opacity=".85"/>
+ <!-- Tires and forged rims remain below the sculpted body. -->
+ <g fill="#0b0d16" stroke="#534966" stroke-width="1.2">
+  <path d="M280 162q-8 13-2 28 7 14 21 12l12-3v-33Z"/>
+  <path d="M616 131q8-14 21-9 11 4 9 18l-5 18q-4 10-13 9l-17-5Z"/>
+  <path d="M507 165q9-19 26-17 19 2 15 26l-4 15q-4 14-17 16l-23-3Z"/>
  </g>
- <text x="25" y="28" font-family="system-ui, sans-serif" font-size="12" font-weight="680" letter-spacing="3" fill="#ffd0e7">NEON NIGHT DRIVE</text>
+ <g fill="#1b1b28" stroke="#827992" stroke-width="1.3"><ellipse cx="629" cy="147" rx="9" ry="14" transform="rotate(17 629 147)"/><ellipse cx="530" cy="181" rx="13" ry="18" transform="rotate(14 530 181)"/></g>
+ <g stroke="#696179" stroke-width="1"><path d="M522 170l16 22m-17-1l17-22m-20 12h23m-12-14v28M623 140l12 12m-13 2l14-14m-7-6v22"/></g>
+ <!-- Flank and rear face use separate planes to show the perspective. -->
+ <path d="M467 133l72-32 46-3 28 4 27 12 11 13 1 8-10 8q-3-14-12-14-12 1-17 20l-66 33q1-28-14-28-19 0-26 33l-30 7-12-23Z" fill="url(#flank)" stroke="#b885aa" stroke-width=".9"/>
+ <path d="M290 137q24-14 53-32l20-17q12-13 33-17 38-6 87 1 25 4 45 17l17 12 46-2 23 5 23 12-66 8-32 14-51 24-192-10Z" fill="url(#body)" stroke="#c58da8" stroke-width="1.05"/>
+ <path d="M343 106l25-20q11-9 28-12 31-5 68 0l16 2q11 2 20 7l18 13-55 28Z" fill="url(#glass)" stroke="#b793ab" stroke-width="1.1"/>
+ <path d="M467 125l57-28-20-15q21 7 42 20l35-1-46 15-49 23Z" fill="#2c2642" stroke="#c485ab" stroke-width=".9"/>
+ <path d="M351 104l24-17q22-16 83-11l32 5-42 15Z" fill="#a284a2" opacity=".28"/>
+ <path d="M366 109l101 13m-93-17l105 12m-92-17l104 11" stroke="#9b849b" stroke-opacity=".38" stroke-width=".8"/>
+ <path d="M289 139l42-21 19-9 114 17 25 13-16 23-179-10Z" fill="#aa698d" opacity=".61"/>
+ <path d="M301 135l39-17 105 12 31 8-4 6Z" fill="#d38fa9" opacity=".55"/>
+ <path d="M281 140l14-4 181 20 14 6-7 21-9 12-178-14-15-8-6-13Z" fill="url(#body)" stroke="#b383a3" stroke-width="1"/>
+ <path d="M282 148l190 18 12-3-4 14-192-15Z" fill="#171624" stroke="#704764" stroke-width="1"/>
+ <path d="M286 152l58 5v8l-56-7Zm126 11l61 6-2 7-59-5Z" fill="#b52d56"/>
+ <path d="M287 154l54 5m73 7l56 5" stroke="url(#tail)" stroke-width="2.5" stroke-linecap="round"/>
+ <path d="M291 154l44 4m84 8l45 4" class="glint" stroke="#ffc5a1" stroke-width=".95" stroke-linecap="round"/>
+ <path d="M354 162l46 4-1 9-46-4Z" fill="#252535" stroke="#8d6d8c" stroke-width=".6"/>
+ <path d="M292 169l183 16-5 6-169-13Z" fill="#171828"/>
+ <path d="M298 179l171 14m24-32l132-41m-80 29l64-21m-59 51l62-31" stroke="#d493b4" stroke-opacity=".62" fill="none" stroke-linecap="round"/>
+ <path d="M512 143l20-7m21 29l48-24m-299 43l14 1m140 11l12 1" stroke="#cab1c7" stroke-opacity=".75" fill="none" stroke-linecap="round"/>
+ <path d="M637 118l10 7-10-1" stroke="#f9d3bc" fill="none" stroke-width="1.4"/>
+ <g font-family="system-ui,sans-serif"><text x="28" y="34" fill="#f4a4b8" font-size="10" font-weight="670" letter-spacing="3.2">COASTAL EXPRESSWAY</text><text x="27" y="61" fill="#fff2f7" font-size="24" font-weight="730" letter-spacing="-.55">After Hours</text></g>
 </g>
-<rect x="1" y="1" width="918" height="162" rx="18" fill="none" stroke="#55436f"/>
+<rect x="1" y="1" width="918" height="238" rx="18" fill="none" stroke="#574058"/>
 </svg>
