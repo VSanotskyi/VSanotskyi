@@ -50,7 +50,7 @@ I integrate large language models (LLMs) into new and existing applications and 
 ### Contribution Drift
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/3a2019f3c545829c72c3f8f589ba2faf426d0766/assets/contribution-drift-launch.svg" width="904" alt="A metallic mint sports car drifts once across my GitHub contribution calendar, revealing full columns before they clear left to right" />
+  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/40fbb05030f5ff6bec2dd8e8419e7e7cee7766a0/assets/contribution-drift-ruby.svg" width="904" alt="A metallic ruby-red sports car drifts once across my GitHub contribution calendar, revealing full columns before they clear left to right" />
 </p>
 
 ---
