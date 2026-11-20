@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="164" viewBox="0 0 920 164" role="img" aria-labelledby="title desc">
+<title id="title">Neon night drive</title><desc id="desc">A retro sports coupe drives past a palm-lined city at dusk.</desc>
+<defs>
+ <linearGradient id="night" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#151235"/><stop offset=".72" stop-color="#3c2153"/><stop offset="1" stop-color="#ab455f"/></linearGradient>
+ <linearGradient id="sun" x2="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#ffc175"/><stop offset="1" stop-color="#ff6ba0"/></linearGradient>
+ <linearGradient id="paint"><stop stop-color="#991cb5"/><stop offset=".45" stop-color="#f36cbe"/><stop offset="1" stop-color="#fd8d9d"/></linearGradient>
+ <linearGradient id="glass"><stop stop-color="#675884"/><stop offset="1" stop-color="#212438"/></linearGradient>
+ <clipPath id="clip"><rect x="1" y="1" width="918" height="162" rx="18"/></clipPath>
+ <path id="palm" d="M0 57Q5 28 0 0M0 1Q-13-8 -24 4M0 1Q-15 1 -18 12M0 1Q-5 -12 -15 -13M0 1Q6 -13 16 -13M0 1Q16 -8 26 2M0 1Q16 0 18 12" fill="none" stroke="#18132d" stroke-width="2.8" stroke-linecap="round"/>
+ <pattern id="windows" width="12" height="8" patternUnits="userSpaceOnUse"><rect x="3" y="2" width="3" height="2" rx=".5" fill="#f7a981" opacity=".48"/></pattern>
+</defs>
+<style>
+ .car { transform:translateX(380px); animation:drive 10s linear infinite; }
+ .lane { animation:lane 1.7s linear infinite; }
+ @keyframes drive { 0%{transform:translateX(-184px)} 100%{transform:translateX(930px)} }
+ @keyframes lane { 0%{stroke-dashoffset:0} 100%{stroke-dashoffset:64} }
+ @media (prefers-reduced-motion: reduce) { .car,.lane { animation:none } }
+</style>
+<g clip-path="url(#clip)">
+ <rect width="920" height="164" fill="url(#night)"/>
+ <circle cx="704" cy="69" r="45" fill="url(#sun)"/>
+ <path d="M660 73H748M661 82H747M665 91H743M670 100H738" stroke="#452450" stroke-width="3" opacity=".6"/>
+ <path d="M0 111H920V164H0z" fill="#111326"/>
+ <path id="buildings" fill="#201831" d="M12 111V94H45V77H72V99H100V82H115V71H130V90H160V74H195V106H219V93H256V63H292V48H309V72H336V98H367V75H400V84H435V94H470V70H505V99H538V69H580V55H600V87H630V110H659V93H681V102H720V88H759V77H778V99H805V72H825V56H842V85H881V93H904V79H920V111Z" />
+ <path d="M12 111V94H45V77H72V99H100V82H115V71H130V90H160V74H195V106H219V93H256V63H292V48H309V72H336V98H367V75H400V84H435V94H470V70H505V99H538V69H580V55H600V87H630V110H659V93H681V102H720V88H759V77H778V99H805V72H825V56H842V85H881V93H904V79H920V111Z" fill="url(#windows)"/>
+ <use href="#palm" x="96" y="49"/><use href="#palm" x="208" y="65"/><use href="#palm" x="805" y="50"/><use href="#palm" x="882" y="33"/>
+ <path d="M0 112H920" stroke="#e36ea3" stroke-opacity=".72"/>
+ <path d="M0 137H920" stroke="#135468" stroke-width="1.2" stroke-opacity=".7"/>
+ <path class="lane" d="M-64 153H984" stroke="#be7ba1" stroke-opacity=".48" stroke-width="1.25" stroke-dasharray="34 30"/>
+ <g class="car">
+  <ellipse cx="84" cy="143" rx="78" ry="5" fill="#070b19" opacity=".8"/>
+  <path d="M12 126L27 122L45 108Q51 105 62 105H100Q110 105 117 111L129 122L153 126Q161 127 162 134V138H8V133Q8 128 12 126Z" fill="url(#paint)" stroke="#ffacce" stroke-width="1.1"/>
+  <path d="M39 121L52 111Q55 109 61 109H81V121ZM86 109H100Q108 110 114 114L123 121H86Z" fill="url(#glass)" stroke="#ffd6e3" stroke-width=".8"/>
+  <path d="M9 135H162" stroke="#91117d" stroke-width="1.4"/>
+  <path d="M16 128H26M145 129H158" stroke="#fff1ad" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M18 128H13" stroke="#ff485f" stroke-width="2.5"/>
+  <circle cx="41" cy="137" r="8.5" fill="#111528" stroke="#687193"/><circle cx="41" cy="137" r="3.2" fill="#b7bfe0"/>
+  <circle cx="129" cy="137" r="8.5" fill="#111528" stroke="#687193"/><circle cx="129" cy="137" r="3.2" fill="#b7bfe0"/>
+ </g>
+ <text x="25" y="28" font-family="system-ui, sans-serif" font-size="12" font-weight="680" letter-spacing="3" fill="#ffd0e7">NEON NIGHT DRIVE</text>
+</g>
+<rect x="1" y="1" width="918" height="162" rx="18" fill="none" stroke="#55436f"/>
+</svg>
