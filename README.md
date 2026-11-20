@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.sanotskyi.dev/"><img src="./assets/profile-signal-banner.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
+  <a href="https://www.sanotskyi.dev/"><img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/ee6ce6cc25f3b3dfe48c7e015ce58b6da141aaab/assets/profile-signal-banner.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
 </p>
 
 I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, and NestJS. I work with SQL and NoSQL databases, including PostgreSQL and MongoDB. I have 5+ years of commercial experience across admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote roles and freelance contracts.
@@ -50,7 +50,7 @@ I integrate large language models (LLMs) into new and existing applications and 
 ### After Hours
 
 <p align="center">
-  <img src="./assets/neon-night-drive.svg" width="920" alt="A retro sports coupé seen from behind on a neon coastal road at dusk" />
+  <img src="https://raw.githubusercontent.com/VSanotskyi/VSanotskyi/ee6ce6cc25f3b3dfe48c7e015ce58b6da141aaab/assets/neon-night-drive.svg" width="920" alt="A retro sports coupé seen from behind on a neon coastal road at dusk" />
 </p>
 
 ---
