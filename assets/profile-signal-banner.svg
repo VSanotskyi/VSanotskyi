@@ -33,7 +33,7 @@
       <text x="52" y="69" fill="#83e2cc" font-size="14" font-weight="650" letter-spacing="2.8">FULL-STACK DEVELOPER</text>
       <text x="50" y="133" fill="#f7faff" font-size="55" font-weight="730" letter-spacing="-2">Vasyl Sanotskyi</text>
       <text x="53" y="171" fill="#bac9e5" font-size="22">B2B SaaS and LLM integrations</text>
-      <text x="52" y="244" fill="#a8bdd7" font-size="13" letter-spacing="1.5">REACT  /  NEXT.JS  /  NODE.JS  /  POSTGRESQL</text>
+      <text x="52" y="244" fill="#a8bdd7" font-size="13" letter-spacing="1.5">REACT  /  NEXT.JS  /  NODE.JS  /  SQL &amp; NoSQL</text>
     </g>
     <path d="M563 130H615L632 109L651 150L674 120H708L736 161L762 89L788 132H859" fill="none" stroke="url(#line)" stroke-width="2" stroke-linejoin="round"/>
     <path class="trace" d="M563 130H615L632 109L651 150L674 120H708L736 161L762 89L788 132H859" fill="none" stroke="#b5ffe9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
