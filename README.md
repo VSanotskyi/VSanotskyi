@@ -4,6 +4,10 @@ Senior Full-Stack Engineer building and improving B2B SaaS with React, Next.js, 
 
 I have 5+ years of commercial experience. I work on existing products as well as new builds, with a focus on admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote full-stack roles and freelance contracts.
 
+## AI and LLM integrations
+
+I integrate large language models (LLMs) into new and existing web applications and have hands-on experience with multiple models. Examples include a document AI assistant in a compliance platform and DecisionSignal, where AI helps score incoming signals and surface patterns and anomalies in the analytics dashboard.
+
 ## Selected work
 
 - [DecisionSignal](https://www.sanotskyi.dev/work/decisionsignal): Built a multi-tenant admin dashboard, participant PWA, and NestJS API with PostgreSQL and role-based access.
