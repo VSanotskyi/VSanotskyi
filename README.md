@@ -2,7 +2,7 @@
   <a href="https://www.sanotskyi.dev/"><img src="./assets/profile-signal-banner.svg" width="920" alt="Vasyl Sanotskyi, Full-Stack Developer for B2B SaaS and LLM integrations" /></a>
 </p>
 
-I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, NestJS, and PostgreSQL. I have 5+ years of commercial experience across admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote roles and freelance contracts.
+I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, and NestJS. I work with SQL and NoSQL databases, including PostgreSQL and MongoDB. I have 5+ years of commercial experience across admin tools, billing, analytics, and integrations. Based in Lviv, Ukraine. Open to remote roles and freelance contracts.
 
 <p align="center">
   <a href="https://www.sanotskyi.dev/">Portfolio and case studies</a> ·
@@ -13,10 +13,10 @@ I build and improve B2B SaaS with React, Next.js, TypeScript, Node.js, NestJS, a
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,postgres,prisma&amp;theme=dark&amp;perline=8" width="408" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL and Prisma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs&amp;theme=dark&amp;perline=6" width="300" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js and NestJS" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,supabase,firebase,aws,docker,vercel,githubactions&amp;theme=dark&amp;perline=7" width="356" alt="Redis, Supabase, Firebase, AWS, Docker, Vercel and GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,docker,aws&amp;theme=dark&amp;perline=6" width="300" alt="PostgreSQL, MongoDB, Redis, GraphQL, Docker and AWS" />
 </p>
 
 ## AI and LLM integrations
@@ -47,10 +47,10 @@ I integrate large language models (LLMs) into new and existing applications and 
 
 ---
 
-### Neon night drive
+### After Hours
 
 <p align="center">
-  <img src="./assets/neon-night-drive.svg" width="920" alt="A neon sports coupe driving past a palm-lined city at dusk" />
+  <img src="./assets/neon-night-drive.svg" width="920" alt="A retro sports coupé seen from behind on a neon coastal road at dusk" />
 </p>
 
 ---
